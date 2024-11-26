@@ -1,0 +1,14 @@
+C:\Users\steli\source\repos\Riverse\Riverse\bin\Debug\net8.0\Riverse.exe
+C:\Users\steli\source\repos\Riverse\Riverse\bin\Debug\net8.0\Riverse.deps.json
+C:\Users\steli\source\repos\Riverse\Riverse\bin\Debug\net8.0\Riverse.runtimeconfig.json
+C:\Users\steli\source\repos\Riverse\Riverse\bin\Debug\net8.0\Riverse.dll
+C:\Users\steli\source\repos\Riverse\Riverse\bin\Debug\net8.0\Riverse.pdb
+C:\Users\steli\source\repos\Riverse\Riverse\obj\Debug\net8.0\Riverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steli\source\repos\Riverse\Riverse\obj\Debug\net8.0\Riverse.AssemblyInfoInputs.cache
+C:\Users\steli\source\repos\Riverse\Riverse\obj\Debug\net8.0\Riverse.AssemblyInfo.cs
+C:\Users\steli\source\repos\Riverse\Riverse\obj\Debug\net8.0\Riverse.csproj.CoreCompileInputs.cache
+C:\Users\steli\source\repos\Riverse\Riverse\obj\Debug\net8.0\Riverse.dll
+C:\Users\steli\source\repos\Riverse\Riverse\obj\Debug\net8.0\refint\Riverse.dll
+C:\Users\steli\source\repos\Riverse\Riverse\obj\Debug\net8.0\Riverse.pdb
+C:\Users\steli\source\repos\Riverse\Riverse\obj\Debug\net8.0\Riverse.genruntimeconfig.cache
+C:\Users\steli\source\repos\Riverse\Riverse\obj\Debug\net8.0\ref\Riverse.dll
