@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\steli\\source\\repos\\Homework ORM\\Homework ORM\\Homework ORM.csproj": {}
+    "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Homework ORM\\Homework ORM\\Homework ORM.csproj": {}
   },
   "projects": {
-    "C:\\Users\\steli\\source\\repos\\Homework ORM\\Homework ORM\\Homework ORM.csproj": {
+    "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Homework ORM\\Homework ORM\\Homework ORM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\steli\\source\\repos\\Homework ORM\\Homework ORM\\Homework ORM.csproj",
+        "projectUniqueName": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Homework ORM\\Homework ORM\\Homework ORM.csproj",
         "projectName": "Homework ORM",
-        "projectPath": "C:\\Users\\steli\\source\\repos\\Homework ORM\\Homework ORM\\Homework ORM.csproj",
-        "packagesPath": "C:\\Users\\steli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\steli\\source\\repos\\Homework ORM\\Homework ORM\\obj\\",
+        "projectPath": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Homework ORM\\Homework ORM\\Homework ORM.csproj",
+        "packagesPath": "C:\\Users\\rumen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Homework ORM\\Homework ORM\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\steli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rumen\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -42,9 +43,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -81,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

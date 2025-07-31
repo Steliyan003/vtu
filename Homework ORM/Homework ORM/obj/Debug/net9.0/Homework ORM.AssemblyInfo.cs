@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Homework ORM")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96ccf9eadc9f0d819ceb5f2a37066c5f6990f355")]
 [assembly: System.Reflection.AssemblyProductAttribute("Homework ORM")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Homework ORM")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
