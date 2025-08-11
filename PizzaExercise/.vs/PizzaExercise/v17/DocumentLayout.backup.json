@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rumen\\source\\repos\\PizzaExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C05ACBA0-19EE-4B6E-B434-1410D1DC1404}|PizzaExercise\\PizzaExercise.csproj|c:\\users\\rumen\\source\\repos\\pizzaexercise\\pizzaexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C05ACBA0-19EE-4B6E-B434-1410D1DC1404}|PizzaExercise\\PizzaExercise.csproj|solutionrelative:pizzaexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C05ACBA0-19EE-4B6E-B434-1410D1DC1404}|PizzaExercise\\PizzaExercise.csproj|c:\\users\\rumen\\source\\repos\\pizzaexercise\\pizzaexercise\\margarita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C05ACBA0-19EE-4B6E-B434-1410D1DC1404}|PizzaExercise\\PizzaExercise.csproj|solutionrelative:pizzaexercise\\margarita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C05ACBA0-19EE-4B6E-B434-1410D1DC1404}|PizzaExercise\\PizzaExercise.csproj|c:\\users\\rumen\\source\\repos\\pizzaexercise\\pizzaexercise\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C05ACBA0-19EE-4B6E-B434-1410D1DC1404}|PizzaExercise\\PizzaExercise.csproj|solutionrelative:pizzaexercise\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C05ACBA0-19EE-4B6E-B434-1410D1DC1404}|PizzaExercise\\PizzaExercise.csproj|c:\\users\\rumen\\source\\repos\\pizzaexercise\\pizzaexercise\\ipizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C05ACBA0-19EE-4B6E-B434-1410D1DC1404}|PizzaExercise\\PizzaExercise.csproj|solutionrelative:pizzaexercise\\ipizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Boss.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\PizzaExercise\\PizzaExercise\\Boss.cs",
+              "RelativeDocumentMoniker": "PizzaExercise\\Boss.cs",
+              "ToolTip": "C:\\Users\\rumen\\source\\repos\\PizzaExercise\\PizzaExercise\\Boss.cs",
+              "RelativeToolTip": "PizzaExercise\\Boss.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAIwAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T20:29:13.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPizza.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\PizzaExercise\\PizzaExercise\\IPizza.cs",
+              "RelativeDocumentMoniker": "PizzaExercise\\IPizza.cs",
+              "ToolTip": "C:\\Users\\rumen\\source\\repos\\PizzaExercise\\PizzaExercise\\IPizza.cs",
+              "RelativeToolTip": "PizzaExercise\\IPizza.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T19:43:25.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Margarita.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\PizzaExercise\\PizzaExercise\\Margarita.cs",
+              "RelativeDocumentMoniker": "PizzaExercise\\Margarita.cs",
+              "ToolTip": "C:\\Users\\rumen\\source\\repos\\PizzaExercise\\PizzaExercise\\Margarita.cs",
+              "RelativeToolTip": "PizzaExercise\\Margarita.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwEoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T19:43:00.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\PizzaExercise\\PizzaExercise\\Program.cs",
+              "RelativeDocumentMoniker": "PizzaExercise\\Program.cs",
+              "ToolTip": "C:\\Users\\rumen\\source\\repos\\PizzaExercise\\PizzaExercise\\Program.cs",
+              "RelativeToolTip": "PizzaExercise\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T19:41:53.413Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

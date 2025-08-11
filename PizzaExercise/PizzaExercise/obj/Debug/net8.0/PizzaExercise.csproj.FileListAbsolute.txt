@@ -1,0 +1,14 @@
+C:\Users\rumen\source\repos\PizzaExercise\PizzaExercise\bin\Debug\net8.0\PizzaExercise.exe
+C:\Users\rumen\source\repos\PizzaExercise\PizzaExercise\bin\Debug\net8.0\PizzaExercise.deps.json
+C:\Users\rumen\source\repos\PizzaExercise\PizzaExercise\bin\Debug\net8.0\PizzaExercise.runtimeconfig.json
+C:\Users\rumen\source\repos\PizzaExercise\PizzaExercise\bin\Debug\net8.0\PizzaExercise.dll
+C:\Users\rumen\source\repos\PizzaExercise\PizzaExercise\bin\Debug\net8.0\PizzaExercise.pdb
+C:\Users\rumen\source\repos\PizzaExercise\PizzaExercise\obj\Debug\net8.0\PizzaExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rumen\source\repos\PizzaExercise\PizzaExercise\obj\Debug\net8.0\PizzaExercise.AssemblyInfoInputs.cache
+C:\Users\rumen\source\repos\PizzaExercise\PizzaExercise\obj\Debug\net8.0\PizzaExercise.AssemblyInfo.cs
+C:\Users\rumen\source\repos\PizzaExercise\PizzaExercise\obj\Debug\net8.0\PizzaExercise.csproj.CoreCompileInputs.cache
+C:\Users\rumen\source\repos\PizzaExercise\PizzaExercise\obj\Debug\net8.0\PizzaExercise.dll
+C:\Users\rumen\source\repos\PizzaExercise\PizzaExercise\obj\Debug\net8.0\refint\PizzaExercise.dll
+C:\Users\rumen\source\repos\PizzaExercise\PizzaExercise\obj\Debug\net8.0\PizzaExercise.pdb
+C:\Users\rumen\source\repos\PizzaExercise\PizzaExercise\obj\Debug\net8.0\PizzaExercise.genruntimeconfig.cache
+C:\Users\rumen\source\repos\PizzaExercise\PizzaExercise\obj\Debug\net8.0\ref\PizzaExercise.dll
