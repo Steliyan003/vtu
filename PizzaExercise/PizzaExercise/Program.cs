@@ -43,8 +43,6 @@ namespace PizzaExercise
                         pizzaBoss.GetHam(quantity);
                         pizzaBoss.GetPrice(); 
                     }
-
-
                 }
                 input = Console.ReadLine().Split(' ').ToArray();
             }
