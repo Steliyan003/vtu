@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uNGjizIBFvY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rumen\\source\\repos\\CarsSpecification\\FileReaders\\FileReaders.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rumen\\.nuget\\packages\\csvhelper\\33.1.0\\csvhelper.33.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

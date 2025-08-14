@@ -1,0 +1,12 @@
+C:\Users\rumen\source\repos\CarsSpecification\FileReaders\bin\Debug\net8.0\FileReaders.deps.json
+C:\Users\rumen\source\repos\CarsSpecification\FileReaders\bin\Debug\net8.0\FileReaders.dll
+C:\Users\rumen\source\repos\CarsSpecification\FileReaders\bin\Debug\net8.0\FileReaders.pdb
+C:\Users\rumen\source\repos\CarsSpecification\FileReaders\obj\Debug\net8.0\FileReaders.csproj.AssemblyReference.cache
+C:\Users\rumen\source\repos\CarsSpecification\FileReaders\obj\Debug\net8.0\FileReaders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rumen\source\repos\CarsSpecification\FileReaders\obj\Debug\net8.0\FileReaders.AssemblyInfoInputs.cache
+C:\Users\rumen\source\repos\CarsSpecification\FileReaders\obj\Debug\net8.0\FileReaders.AssemblyInfo.cs
+C:\Users\rumen\source\repos\CarsSpecification\FileReaders\obj\Debug\net8.0\FileReaders.csproj.CoreCompileInputs.cache
+C:\Users\rumen\source\repos\CarsSpecification\FileReaders\obj\Debug\net8.0\FileReaders.dll
+C:\Users\rumen\source\repos\CarsSpecification\FileReaders\obj\Debug\net8.0\refint\FileReaders.dll
+C:\Users\rumen\source\repos\CarsSpecification\FileReaders\obj\Debug\net8.0\FileReaders.pdb
+C:\Users\rumen\source\repos\CarsSpecification\FileReaders\obj\Debug\net8.0\ref\FileReaders.dll

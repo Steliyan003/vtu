@@ -1,0 +1,17 @@
+C:\Users\rumen\source\repos\CarsSpecification\Context\bin\Debug\net8.0\Context.deps.json
+C:\Users\rumen\source\repos\CarsSpecification\Context\bin\Debug\net8.0\Context.runtimeconfig.json
+C:\Users\rumen\source\repos\CarsSpecification\Context\bin\Debug\net8.0\Context.dll
+C:\Users\rumen\source\repos\CarsSpecification\Context\bin\Debug\net8.0\Context.pdb
+C:\Users\rumen\source\repos\CarsSpecification\Context\bin\Debug\net8.0\Tables.dll
+C:\Users\rumen\source\repos\CarsSpecification\Context\bin\Debug\net8.0\Tables.pdb
+C:\Users\rumen\source\repos\CarsSpecification\Context\obj\Debug\net8.0\Context.csproj.AssemblyReference.cache
+C:\Users\rumen\source\repos\CarsSpecification\Context\obj\Debug\net8.0\Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rumen\source\repos\CarsSpecification\Context\obj\Debug\net8.0\Context.AssemblyInfoInputs.cache
+C:\Users\rumen\source\repos\CarsSpecification\Context\obj\Debug\net8.0\Context.AssemblyInfo.cs
+C:\Users\rumen\source\repos\CarsSpecification\Context\obj\Debug\net8.0\Context.csproj.CoreCompileInputs.cache
+C:\Users\rumen\source\repos\CarsSpecification\Context\obj\Debug\net8.0\Context.csproj.Up2Date
+C:\Users\rumen\source\repos\CarsSpecification\Context\obj\Debug\net8.0\Context.dll
+C:\Users\rumen\source\repos\CarsSpecification\Context\obj\Debug\net8.0\refint\Context.dll
+C:\Users\rumen\source\repos\CarsSpecification\Context\obj\Debug\net8.0\Context.pdb
+C:\Users\rumen\source\repos\CarsSpecification\Context\obj\Debug\net8.0\Context.genruntimeconfig.cache
+C:\Users\rumen\source\repos\CarsSpecification\Context\obj\Debug\net8.0\ref\Context.dll
