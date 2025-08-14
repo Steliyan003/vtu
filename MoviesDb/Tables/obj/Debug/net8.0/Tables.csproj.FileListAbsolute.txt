@@ -1,0 +1,12 @@
+C:\Users\rumen\source\repos\MoviesDb\Tables\bin\Debug\net8.0\Tables.deps.json
+C:\Users\rumen\source\repos\MoviesDb\Tables\bin\Debug\net8.0\Tables.dll
+C:\Users\rumen\source\repos\MoviesDb\Tables\bin\Debug\net8.0\Tables.pdb
+C:\Users\rumen\source\repos\MoviesDb\Tables\obj\Debug\net8.0\Tables.csproj.AssemblyReference.cache
+C:\Users\rumen\source\repos\MoviesDb\Tables\obj\Debug\net8.0\Tables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rumen\source\repos\MoviesDb\Tables\obj\Debug\net8.0\Tables.AssemblyInfoInputs.cache
+C:\Users\rumen\source\repos\MoviesDb\Tables\obj\Debug\net8.0\Tables.AssemblyInfo.cs
+C:\Users\rumen\source\repos\MoviesDb\Tables\obj\Debug\net8.0\Tables.csproj.CoreCompileInputs.cache
+C:\Users\rumen\source\repos\MoviesDb\Tables\obj\Debug\net8.0\Tables.dll
+C:\Users\rumen\source\repos\MoviesDb\Tables\obj\Debug\net8.0\refint\Tables.dll
+C:\Users\rumen\source\repos\MoviesDb\Tables\obj\Debug\net8.0\Tables.pdb
+C:\Users\rumen\source\repos\MoviesDb\Tables\obj\Debug\net8.0\ref\Tables.dll

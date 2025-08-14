@@ -1,0 +1,12 @@
+C:\Users\rumen\source\repos\MoviesDb\CsvMap\bin\Debug\net8.0\CsvMap.deps.json
+C:\Users\rumen\source\repos\MoviesDb\CsvMap\bin\Debug\net8.0\CsvMap.dll
+C:\Users\rumen\source\repos\MoviesDb\CsvMap\bin\Debug\net8.0\CsvMap.pdb
+C:\Users\rumen\source\repos\MoviesDb\CsvMap\obj\Debug\net8.0\CsvMap.csproj.AssemblyReference.cache
+C:\Users\rumen\source\repos\MoviesDb\CsvMap\obj\Debug\net8.0\CsvMap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rumen\source\repos\MoviesDb\CsvMap\obj\Debug\net8.0\CsvMap.AssemblyInfoInputs.cache
+C:\Users\rumen\source\repos\MoviesDb\CsvMap\obj\Debug\net8.0\CsvMap.AssemblyInfo.cs
+C:\Users\rumen\source\repos\MoviesDb\CsvMap\obj\Debug\net8.0\CsvMap.csproj.CoreCompileInputs.cache
+C:\Users\rumen\source\repos\MoviesDb\CsvMap\obj\Debug\net8.0\CsvMap.dll
+C:\Users\rumen\source\repos\MoviesDb\CsvMap\obj\Debug\net8.0\refint\CsvMap.dll
+C:\Users\rumen\source\repos\MoviesDb\CsvMap\obj\Debug\net8.0\CsvMap.pdb
+C:\Users\rumen\source\repos\MoviesDb\CsvMap\obj\Debug\net8.0\ref\CsvMap.dll
