@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rumen\\source\\repos\\Exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35AD47DF-8824-4D08-B7E1-D61E19842FDD}|DbContext\\Context.csproj|c:\\users\\rumen\\source\\repos\\exam\\dbcontext\\examdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AD47DF-8824-4D08-B7E1-D61E19842FDD}|DbContext\\Context.csproj|solutionrelative:dbcontext\\examdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB0D696-8533-4207-BC56-383A41F6229B}|Exam\\Exam.csproj|c:\\users\\rumen\\source\\repos\\exam\\exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DB0D696-8533-4207-BC56-383A41F6229B}|Exam\\Exam.csproj|solutionrelative:exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28C078C-6899-4B5C-AC42-C9943D9D46F4}|Tables\\Tables.csproj|c:\\users\\rumen\\source\\repos\\exam\\tables\\models\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28C078C-6899-4B5C-AC42-C9943D9D46F4}|Tables\\Tables.csproj|solutionrelative:tables\\models\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28C078C-6899-4B5C-AC42-C9943D9D46F4}|Tables\\Tables.csproj|c:\\users\\rumen\\source\\repos\\exam\\tables\\models\\postalcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28C078C-6899-4B5C-AC42-C9943D9D46F4}|Tables\\Tables.csproj|solutionrelative:tables\\models\\postalcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28C078C-6899-4B5C-AC42-C9943D9D46F4}|Tables\\Tables.csproj|c:\\users\\rumen\\source\\repos\\exam\\tables\\models\\electricvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28C078C-6899-4B5C-AC42-C9943D9D46F4}|Tables\\Tables.csproj|solutionrelative:tables\\models\\electricvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28C078C-6899-4B5C-AC42-C9943D9D46F4}|Tables\\Tables.csproj|c:\\users\\rumen\\source\\repos\\exam\\tables\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28C078C-6899-4B5C-AC42-C9943D9D46F4}|Tables\\Tables.csproj|solutionrelative:tables\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28C078C-6899-4B5C-AC42-C9943D9D46F4}|Tables\\Tables.csproj|c:\\users\\rumen\\source\\repos\\exam\\tables\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28C078C-6899-4B5C-AC42-C9943D9D46F4}|Tables\\Tables.csproj|solutionrelative:tables\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rumen\\source\\repos\\Exam\\DbContext\\Migrations\\20250901083420_car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DbContext\\Migrations\\20250901083420_car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7755F45-6E2C-4C71-9DA0-11CC3E72B639}|CsvMap\\CsvMap.csproj|c:\\users\\rumen\\source\\repos\\exam\\csvmap\\exammap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7755F45-6E2C-4C71-9DA0-11CC3E72B639}|CsvMap\\CsvMap.csproj|solutionrelative:csvmap\\exammap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7755F45-6E2C-4C71-9DA0-11CC3E72B639}|CsvMap\\CsvMap.csproj|c:\\users\\rumen\\source\\repos\\exam\\csvmap\\csvmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7755F45-6E2C-4C71-9DA0-11CC3E72B639}|CsvMap\\CsvMap.csproj|solutionrelative:csvmap\\csvmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28C078C-6899-4B5C-AC42-C9943D9D46F4}|Tables\\Tables.csproj|c:\\users\\rumen\\source\\repos\\exam\\tables\\tables.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F28C078C-6899-4B5C-AC42-C9943D9D46F4}|Tables\\Tables.csproj|solutionrelative:tables\\tables.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExamMap.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Exam\\CsvMap\\ExamMap.cs",
+              "RelativeDocumentMoniker": "CsvMap\\ExamMap.cs",
+              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Exam\\CsvMap\\ExamMap.cs",
+              "RelativeToolTip": "CsvMap\\ExamMap.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T06:44:51.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Exam\\Tables\\Models\\City.cs",
+              "RelativeDocumentMoniker": "Tables\\Models\\City.cs",
+              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Exam\\Tables\\Models\\City.cs",
+              "RelativeToolTip": "Tables\\Models\\City.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T06:23:58.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ElectricVehicle.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Exam\\Tables\\Models\\ElectricVehicle.cs",
+              "RelativeDocumentMoniker": "Tables\\Models\\ElectricVehicle.cs",
+              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Exam\\Tables\\Models\\ElectricVehicle.cs",
+              "RelativeToolTip": "Tables\\Models\\ElectricVehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T06:07:59.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExamDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Exam\\DbContext\\ExamDbContext.cs",
+              "RelativeDocumentMoniker": "DbContext\\ExamDbContext.cs",
+              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Exam\\DbContext\\ExamDbContext.cs",
+              "RelativeToolTip": "DbContext\\ExamDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T06:02:21.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Exam\\Exam\\Program.cs",
+              "RelativeDocumentMoniker": "Exam\\Program.cs",
+              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Exam\\Exam\\Program.cs",
+              "RelativeToolTip": "Exam\\Program.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAowHMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T05:57:44.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CsvMapper.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Exam\\CsvMap\\CsvMapper.cs",
+              "RelativeDocumentMoniker": "CsvMap\\CsvMapper.cs",
+              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Exam\\CsvMap\\CsvMapper.cs",
+              "RelativeToolTip": "CsvMap\\CsvMapper.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T06:36:59.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Exam\\Tables\\Models\\Country.cs",
+              "RelativeDocumentMoniker": "Tables\\Models\\Country.cs",
+              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Exam\\Tables\\Models\\Country.cs",
+              "RelativeToolTip": "Tables\\Models\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T06:21:55.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PostalCode.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Exam\\Tables\\Models\\PostalCode.cs",
+              "RelativeDocumentMoniker": "Tables\\Models\\PostalCode.cs",
+              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Exam\\Tables\\Models\\PostalCode.cs",
+              "RelativeToolTip": "Tables\\Models\\PostalCode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T06:28:15.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "State.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Exam\\Tables\\Models\\State.cs",
+              "RelativeDocumentMoniker": "Tables\\Models\\State.cs",
+              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Exam\\Tables\\Models\\State.cs",
+              "RelativeToolTip": "Tables\\Models\\State.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T06:25:43.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250901083420_car.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Exam\\DbContext\\Migrations\\20250901083420_car.cs",
+              "RelativeDocumentMoniker": "DbContext\\Migrations\\20250901083420_car.cs",
+              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Exam\\DbContext\\Migrations\\20250901083420_car.cs",
+              "RelativeToolTip": "DbContext\\Migrations\\20250901083420_car.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T08:34:20.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Tables",
+              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Exam\\Tables\\Tables.csproj",
+              "RelativeDocumentMoniker": "Tables\\Tables.csproj",
+              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Exam\\Tables\\Tables.csproj",
+              "RelativeToolTip": "Tables\\Tables.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-01T06:08:10.919Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
