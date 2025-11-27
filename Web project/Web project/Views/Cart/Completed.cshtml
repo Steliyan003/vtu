@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "Поръчката е завършена";
+}
+
+<h2>Благодарим за поръчката!</h2>
+
+@if (ViewBag.OrderId != null)
+{
+    <p>Номер на поръчката: <strong>@ViewBag.OrderId</strong></p>
+}
+
+<p>Ще се свържем с Вас за потвърждение на доставката.</p>
+
+<a asp-area=""
+   asp-controller="Products"
+   asp-action="Index"
+   class="btn btn-primary">
+    Обратно към продуктите
+</a>
+
+<a asp-area=""
+   asp-controller="Home"
+   asp-action="Index"
+   class="btn btn-secondary ms-2">
+    Към началната страница
+</a>

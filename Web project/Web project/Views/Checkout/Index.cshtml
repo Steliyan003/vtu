@@ -1,0 +1,98 @@
+﻿@model WebProject.ViewModels.CheckoutViewModel
+
+@{
+    ViewData["Title"] = "Завършване на поръчката";
+}
+
+<h2>Завършване на поръчката</h2>
+
+@if (Model.Items == null || !Model.Items.Any())
+{
+    <p>Количката ви е празна.</p>
+}
+else
+{
+    <h4>Вашите продукти</h4>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Продукт</th>
+                <th>Количество</th>
+                <th>Цена</th>
+                <th>Общо</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Items)
+            {
+                var lineTotal = item.Quantity * item.Product.Price;
+                <tr>
+                    <td>@item.Product.Name</td>
+                    <td>@item.Quantity</td>
+                    <td>@item.Product.Price.ToString("F2") лв.</td>
+                    <td>@lineTotal.ToString("F2") лв.</td>
+                </tr>
+            }
+        </tbody>
+        <tfoot>
+            <tr>
+                <td colspan="3" class="text-end fw-bold">Общо:</td>
+                <td class="fw-bold">@Model.TotalAmount.ToString("F2") лв.</td>
+            </tr>
+        </tfoot>
+    </table>
+
+    <hr />
+
+    <h4>Данни за доставка</h4>
+
+    <form asp-area=""
+          asp-controller="Checkout"
+          asp-action="Index"
+          method="post"
+          class="mt-3">
+        @Html.AntiForgeryToken()
+
+        <div class="mb-3">
+            <label asp-for="FullName" class="form-label"></label>
+            <input asp-for="FullName" class="form-control" />
+            <span asp-validation-for="FullName" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="PhoneNumber" class="form-label"></label>
+            <input asp-for="PhoneNumber" class="form-control" />
+            <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Address" class="form-label"></label>
+            <input asp-for="Address" class="form-control" />
+            <span asp-validation-for="Address" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="City" class="form-label"></label>
+            <input asp-for="City" class="form-control" />
+            <span asp-validation-for="City" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Notes" class="form-label"></label>
+            <textarea asp-for="Notes" class="form-control"></textarea>
+        </div>
+
+        <button type="submit" class="btn btn-success">Потвърди поръчката</button>
+
+        <a asp-area=""
+           asp-controller="Cart"
+           asp-action="Index"
+           class="btn btn-secondary ms-2">
+            Назад към количката
+        </a>
+    </form>
+}
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

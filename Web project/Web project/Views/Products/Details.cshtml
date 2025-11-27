@@ -1,0 +1,62 @@
+﻿@model WebProject.Models.Product
+
+@{
+    ViewData["Title"] = Model.Name;
+}
+
+<div class="row mt-4">
+    <div class="col-md-6">
+        <img src="@Model.ImageUrl"
+             alt="@Model.Name"
+             class="img-fluid rounded shadow-sm" />
+    </div>
+
+    <div class="col-md-6">
+        <h2>@Model.Name</h2>
+
+        <p class="text-muted">
+            Категория:
+            @Model.Category?.Name
+        </p>
+
+        <p class="fs-3 fw-bold text-primary">
+            @Model.Price.ToString("0.00") лв.
+        </p>
+
+        <p class="mb-3">
+            @Model.Description
+        </p>
+
+        <a asp-area=""
+           asp-controller="Products"
+           asp-action="Index"
+           class="btn btn-outline-secondary mb-3">
+            ⬅ Обратно към продуктите
+        </a>
+
+        <!-- ВАЖНО: asp-area="" за да не ходи в /Admin/... -->
+        <form asp-area=""
+              asp-controller="Cart"
+              asp-action="Add"
+              method="post"
+              class="mt-4">
+            <input type="hidden" name="productId" value="@Model.Id" />
+
+            <div class="input-group mb-3" style="max-width: 300px;">
+                <label class="input-group-text" for="qty-@Model.Id">Брой</label>
+                <select id="qty-@Model.Id" name="quantity" class="form-select">
+                    @for (int q = 1; q <= 10; q++)
+                    {
+                        <option value="@q">@q</option>
+                    }
+                </select>
+            </div>
+
+            <button type="submit" class="btn btn-primary">
+                Добави в количката
+            </button>
+        </form>
+
+
+    </div>
+</div>

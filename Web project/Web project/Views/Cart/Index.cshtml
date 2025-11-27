@@ -1,0 +1,73 @@
+﻿@model IEnumerable<WebProject.Models.OrderProduct>
+
+@{
+    ViewData["Title"] = "Моята количка";
+}
+
+<h2>Моята количка</h2>
+
+@if (!Model.Any())
+{
+    <p>Количката е празна.</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Продукт</th>
+                <th>Количество</th>
+                <th>Цена</th>
+                <th>Общо</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                decimal total = 0;
+            }
+            @foreach (var item in Model)
+            {
+                var lineTotal = item.Quantity * item.Product.Price;
+                total += lineTotal;
+
+                <tr>
+                    <td>@item.Product.Name</td>
+                    <td>@item.Quantity</td>
+                    <td>@item.Product.Price.ToString("F2") лв.</td>
+                    <td>@lineTotal.ToString("F2") лв.</td>
+                    <td>
+                        <form asp-area=""
+                              asp-controller="Cart"
+                              asp-action="Remove"
+                              method="post">
+                            @Html.AntiForgeryToken()
+                            <input type="hidden" name="productId" value="@item.ProductId" />
+                            <button type="submit" class="btn btn-sm btn-danger">
+                                Премахни
+                            </button>
+                        </form>
+
+                    </td>
+                </tr>
+            }
+        </tbody>
+        <tfoot>
+            <tr>
+                <td colspan="3" class="text-end fw-bold">Обща сума:</td>
+                <td colspan="2" class="fw-bold">@total.ToString("F2") лв.</td>
+            </tr>
+        </tfoot>
+    </table>
+
+    <div class="text-end mt-3">
+        <form asp-area=""
+              asp-controller="Checkout"
+              asp-action="Index"
+              method="get">
+            <button type="submit" class="btn btn-success">
+                Продължи поръчката
+            </button>
+        </form>
+    </div>
+}

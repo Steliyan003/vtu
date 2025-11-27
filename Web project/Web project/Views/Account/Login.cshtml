@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "Login";
+}
+
+<h2>Вход</h2>
+
+<form method="post">
+    <div>
+        <label>Email</label>
+        <input type="email" name="email" required />
+    </div>
+
+    <div>
+        <label>Парола</label>
+        <input type="password" name="password" required />
+    </div>
+
+    <button type="submit">Вход</button>
+
+    <div style="color:red">@ViewBag.Error</div>
+</form>

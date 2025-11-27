@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html lang="bg">
+<head>
+    <meta charset="utf-8" />
+    <title>Admin - @ViewData["Title"]</title>
+
+    <!-- Bootstrap -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" />
+
+    <!-- Общите стилове на сайта -->
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+
+    <!-- Специални стилове за админ -->
+    <link rel="stylesheet" href="~/css/admin.css" asp-append-version="true" />
+</head>
+<body class="admin-area">
+    <div class="container mt-4">
+
+        <header class="admin-header">
+            <div>
+                <div class="admin-title">Admin Dashboard</div>
+                <div class="admin-subtitle">
+                    Управление на потребители, роли, поръчки и настройки.
+                </div>
+            </div>
+
+            <a asp-area="" asp-controller="Home" asp-action="Index"
+               class="btn btn-sm btn-back-to-site">
+                &larr; Към сайта
+            </a>
+        </header>
+
+        @RenderBody()
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

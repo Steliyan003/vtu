@@ -1,0 +1,48 @@
+﻿@{
+    ViewData["Title"] = "Admin Dashboard";
+}
+
+<div class="container mt-4">
+    <h2 class="mb-4">Admin Dashboard</h2>
+
+    <div class="row">
+        <div class="col-md-4">
+            <div class="card shadow-sm border-0">
+                <div class="card-body">
+                    <h5 class="card-title">Users</h5>
+                    <p class="card-text">Manage all users in the system.</p>
+                    <a asp-area="Admin" asp-controller="Users" asp-action="Index" class="btn btn-primary">
+                        View Users
+                    </a>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card shadow-sm border-0">
+                <div class="card-body">
+                    <h5 class="card-title">Roles</h5>
+                    <p class="card-text">Manage roles and permissions.</p>
+                    <a asp-area="Admin" asp-controller="Roles" asp-action="Index" class="btn btn-primary">
+                        Manage Roles
+                    </a>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card shadow-sm border-0">
+                <div class="card-body">
+                    <h5 class="card-title">Settings</h5>
+                    <p class="card-text">System-wide admin settings.</p>
+                    <a asp-area="Admin" asp-controller="Settings" asp-action="Index" class="btn btn-primary">
+                        Settings
+                    </a>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
