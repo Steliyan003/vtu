@@ -1,0 +1,73 @@
+﻿@model IEnumerable<WebProject.Models.Order>
+
+@{
+    ViewData["Title"] = "Orders";
+}
+
+<div class="admin-page">
+    <h2 class="mb-4">Orders</h2>
+
+    <a asp-area="Admin"
+       asp-controller="Dashboard"
+       asp-action="Index"
+       class="btn btn-outline-secondary mb-3">
+        ← Обратно към Admin Dashboard
+    </a>
+
+    <div class="table-responsive">
+        <table class="table table-hover align-middle admin-table">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Created On</th>
+                    <th>User Email</th>
+                    <th>Full Name</th>
+                    <th>Phone</th>
+                    <th>City</th>
+                    <th>Address</th>
+                    <th>Notes</th>
+                    <th class="text-end">Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var order in Model)
+                {
+                    <tr>
+                        <td>@order.Id</td>
+                        <td>@order.CreatedOn</td>
+                        <td>@order.User?.Email</td>
+                        <td>@order.FullName</td>
+                        <td>@order.PhoneNumber</td>
+                        <td>@order.City</td>
+                        <td>@order.Address</td>
+                        <td>@order.Notes</td>
+
+                        <td class="text-end">
+                            <form asp-area="Admin"
+                                  asp-controller="Orders"
+                                  asp-action="Confirm"
+                                  method="post"
+                                  class="d-inline">
+                                <input type="hidden" name="id" value="@order.Id" />
+                                <button type="submit" class="btn btn-success btn-sm">
+                                    Confirm
+                                </button>
+                            </form>
+
+                            <form asp-area="Admin"
+                                  asp-controller="Orders"
+                                  asp-action="Cancel"
+                                  method="post"
+                                  class="d-inline ms-2">
+                                <input type="hidden" name="id" value="@order.Id" />
+                                <button type="submit" class="btn btn-danger btn-sm">
+                                    Reject
+                                </button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

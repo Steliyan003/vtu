@@ -1,27 +1,20 @@
-﻿/* =====================================================
-   ADMIN AREA – CUSTOM DASHBOARD STYLE
-   Всичко вътре важи само за body.admin-area
-===================================================== */
-
-body.admin-area {
+﻿body.admin-area {
     min-height: 100vh;
-    background: radial-gradient(circle at top left, #1f3b57 0, #050608 45%, #000000 100%);
-    color: #f5f5f5;
+    background: linear-gradient(135deg, #e9f2fb 0%, #f4f7fc 40%, #e0ecfb 100%);
+    color: #1a1a1a;
     font-family: 'Segoe UI', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
 }
 
-    /* Линкове */
+
     body.admin-area a {
-        color: #93c5fd;
+        color: #2563eb;
     }
 
         body.admin-area a:hover {
-            color: #bfdbfe;
+            color: #1d4ed8;
         }
 
-    /* -----------------------------------------------------
-   HEADER – заглавието "Admin Dashboard" и навигацията
------------------------------------------------------ */
+    
 
     body.admin-area .admin-header {
         display: flex;
@@ -29,37 +22,35 @@ body.admin-area {
         justify-content: space-between;
         margin-bottom: 2rem;
         padding-bottom: 1rem;
-        border-bottom: 1px solid rgba(148,163,184,0.4);
+        border-bottom: 1px solid rgba(148,163,184,0.6);
     }
 
     body.admin-area .admin-title {
         font-size: 2rem;
         font-weight: 700;
         letter-spacing: 0.03em;
+        color: #0d3b66;
     }
 
     body.admin-area .admin-subtitle {
         font-size: 0.95rem;
-        color: #9ca3af;
+        color: #6b7280;
     }
 
-    /* малко по-изчистен бутон за връщане към сайта */
     body.admin-area .btn-back-to-site {
         border-radius: 999px;
         padding-inline: 18px;
-        background: transparent;
-        border: 1px solid #4b5563;
-        color: #e5e7eb;
+        background: #ffffff;
+        border: 1px solid #cbd5e1;
+        color: #0f172a;
     }
 
         body.admin-area .btn-back-to-site:hover {
-            background: #111827;
-            color: #e5e7eb;
+            background: #e2e8f0;
+            color: #0f172a;
         }
 
-    /* -----------------------------------------------------
-   DASHBOARD / КАРТИ
------------------------------------------------------ */
+    
 
     body.admin-area .admin-dashboard {
         display: grid;
@@ -67,82 +58,118 @@ body.admin-area {
         gap: 1.5rem;
     }
 
-    /* общ стил за “плочките” – Users / Roles / Settings и т.н. */
+  
     body.admin-area .admin-card {
-        background: #111827;
+        background: #ffffff;
         border-radius: 16px;
         padding: 1.5rem 1.75rem;
-        border: 1px solid #1f2937;
-        box-shadow: 0 18px 40px rgba(0,0,0,0.55);
+        border: 1px solid #cbd5e1;
+        box-shadow: 0 14px 30px rgba(15, 23, 42, 0.12);
         display: flex;
         flex-direction: column;
         gap: 0.5rem;
-        transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
+        transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease, background-color 0.18s ease;
     }
 
         body.admin-area .admin-card:hover {
             transform: translateY(-4px);
-            box-shadow: 0 24px 55px rgba(0,0,0,0.7);
+            box-shadow: 0 20px 45px rgba(15, 23, 42, 0.18);
             border-color: #2563eb;
+            background-color: #f9fbff;
         }
 
     body.admin-area .admin-card-title {
         font-size: 1.1rem;
         font-weight: 600;
+        color: #0f172a;
     }
 
     body.admin-area .admin-card-text {
         font-size: 0.9rem;
-        color: #9ca3af;
+        color: #6b7280;
     }
 
-    /* основен админ бутон вътре в картите */
+   
     body.admin-area .admin-card .btn-primary {
         align-self: flex-start;
         border-radius: 999px;
         padding-inline: 18px;
         font-weight: 500;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        min-width: 140px;
+        color: #ffffff !important; 
     }
 
-    /* -----------------------------------------------------
-   ТАБЛИЦИ – списъци с поръчки, потребители и т.н.
------------------------------------------------------ */
+   
 
     body.admin-area table {
-        background-color: #020617;
+        background-color: #ffffff;
         border-radius: 12px;
         overflow: hidden;
-        border: 1px solid #1e293b;
+        border: 1px solid #cbd5e1;
     }
 
+   
     body.admin-area thead {
-        background: #020617;
+        background: #dbeafe;
     }
 
         body.admin-area thead th {
-            border-bottom: 1px solid #1e293b;
-            color: #e5e7eb;
+            border-bottom: 1px solid #bfdbfe;
+            color: #0f172a;
         }
 
+    /* редовете по принцип */
     body.admin-area tbody tr:nth-child(even) td {
-        background-color: #020617;
+        background-color: #f9fafb;
     }
 
     body.admin-area tbody tr:nth-child(odd) td {
-        background-color: #020617;
+        background-color: #ffffff;
     }
 
     body.admin-area tbody tr:hover td {
-        background-color: #020617;
+        background-color: #e5f0ff;
     }
 
-    /* -----------------------------------------------------
-   БУТОНИ – малко по-остри цветове в админ панела
------------------------------------------------------ */
+    
+    body.admin-area .table-dark,
+    body.admin-area .table-dark thead th,
+    body.admin-area .table-dark tbody td {
+        background-color: #ffffff !important;
+        color: #0f172a !important;
+    }
+
+        body.admin-area .table-dark thead {
+            background-color: #dbeafe !important;
+        }
+
+            body.admin-area .table-dark thead th {
+                background-color: #dbeafe !important;
+                border-bottom: 1px solid #bfdbfe !important;
+                color: #0f172a !important;
+            }
+
+        body.admin-area .table-dark tbody tr:nth-child(even) td {
+            background-color: #f9fafb !important;
+        }
+
+        body.admin-area .table-dark tbody tr:nth-child(odd) td {
+            background-color: #ffffff !important;
+        }
+
+        body.admin-area .table-dark tbody tr:hover td {
+            background-color: #e5f0ff !important;
+        }
+
+
 
     body.admin-area .btn-primary {
         background-color: #2563eb !important;
         border-color: #2563eb !important;
+        color: #ffffff !important;
     }
 
         body.admin-area .btn-primary:hover {
@@ -153,29 +180,29 @@ body.admin-area {
     body.admin-area .btn-danger {
         background-color: #ef4444 !important;
         border-color: #ef4444 !important;
+        color: #ffffff !important;
     }
 
         body.admin-area .btn-danger:hover {
             background-color: #dc2626 !important;
         }
 
-    /* -----------------------------------------------------
-   ФОРМИ / INPUT-и в админ (примерно за редакция на роли)
------------------------------------------------------ */
+    
 
     body.admin-area .form-control {
-        background-color: #020617 !important;
-        border: 1px solid #374151 !important;
-        color: #e5e7eb !important;
+        background-color: #f1f5f9 !important;
+        border: 1px solid #cbd5e1 !important;
+        color: #0f172a !important;
     }
 
         body.admin-area .form-control:focus {
             border-color: #2563eb !important;
-            box-shadow: 0 0 0 0.1rem rgba(37,99,235,0.35) !important;
-            background-color: #020617 !important;
+            box-shadow: 0 0 0 0.1rem rgba(37,99,235,0.25) !important;
+            background-color: #ffffff !important;
         }
 
-    /* малки “пилюлки” за статуси (Pending / Completed и др.) */
+   
+
     body.admin-area .badge-status {
         border-radius: 999px;
         padding: 0.25rem 0.8rem;
@@ -184,16 +211,18 @@ body.admin-area {
     }
 
     body.admin-area .badge-pending {
-        background: rgba(234,179,8,0.14);
-        color: #facc15;
+        background: rgba(234,179,8,0.15);
+        color: #854d0e;
     }
 
     body.admin-area .badge-completed {
         background: rgba(34,197,94,0.18);
-        color: #4ade80;
+        color: #166534;
     }
 
     body.admin-area .badge-cancelled {
-        background: rgba(248,113,113,0.16);
-        color: #f87171;
+        background: rgba(248,113,113,0.18);
+        color: #b91c1c;
     }
+
+

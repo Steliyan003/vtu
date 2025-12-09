@@ -23,7 +23,7 @@ namespace WebProject.Controllers
         private string? GetUserId()
             => User.FindFirstValue(ClaimTypes.NameIdentifier);
 
-        // GET /Checkout
+        
         [HttpGet]
         public async Task<IActionResult> Index()
         {
@@ -33,32 +33,36 @@ namespace WebProject.Controllers
                 return RedirectToAction("Login", "Account");
             }
 
+            
             var order = await _context.Orders
                 .Include(o => o.Items)
                     .ThenInclude(i => i.Product)
-                .FirstOrDefaultAsync(o => o.UserId == userId);
+                .FirstOrDefaultAsync(o => o.UserId == userId &&
+                                          !o.IsCompleted &&
+                                          !o.IsCanceled &&
+                                          string.IsNullOrEmpty(o.FullName));
 
             if (order == null || !order.Items.Any())
             {
-                // Ако количката е празна -> обратно към количката
                 return RedirectToAction("Index", "Cart");
             }
 
             var model = new CheckoutViewModel
             {
                 Items = order.Items.ToList(),
-                TotalAmount = order.Items.Sum(i => i.Quantity * i.Product.Price)
+                TotalAmount = order.Items.Sum(i => i.Quantity * i.Product.Price),
+                
             };
 
-            return View(model);  // Това вика Views/Checkout/Index.cshtml
+            return View(model);
         }
 
-        // POST /Checkout
+        
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Index(CheckoutViewModel model)
         {
-            var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+            var userId = GetUserId();
             if (userId == null)
             {
                 return RedirectToAction("Login", "Account");
@@ -66,11 +70,13 @@ namespace WebProject.Controllers
 
             if (!ModelState.IsValid)
             {
-                // презареждаме количката за да покажем грешките
                 var orderForView = await _context.Orders
                     .Include(o => o.Items)
                         .ThenInclude(i => i.Product)
-                    .FirstOrDefaultAsync(o => o.UserId == userId && !o.IsCompleted);
+                    .FirstOrDefaultAsync(o => o.UserId == userId &&
+                                              !o.IsCompleted &&
+                                              !o.IsCanceled &&
+                                              string.IsNullOrEmpty(o.FullName));
 
                 if (orderForView == null)
                 {
@@ -83,30 +89,33 @@ namespace WebProject.Controllers
                 return View(model);
             }
 
+            
             var order = await _context.Orders
                 .Include(o => o.Items)
-                .FirstOrDefaultAsync(o => o.UserId == userId && !o.IsCompleted);
+                .FirstOrDefaultAsync(o => o.UserId == userId &&
+                                          !o.IsCompleted &&
+                                          !o.IsCanceled &&
+                                          string.IsNullOrEmpty(o.FullName));
 
-            if (order == null)
+            if (order == null || !order.Items.Any())
             {
                 return RedirectToAction("Index", "Cart");
             }
 
-            // Записваме данните за доставка
+            
             order.FullName = model.FullName;
             order.PhoneNumber = model.PhoneNumber;
             order.Address = model.Address;
             order.City = model.City;
             order.Notes = model.Notes;
+            order.CreatedOn = DateTime.Now; 
 
-            // ТУК Е ВАЖНОТО:
-            order.IsCompleted = true;
+            
 
             await _context.SaveChangesAsync();
 
-            // Изпращаме Id-то към Completed
-            return RedirectToAction("Completed", "Cart", new { orderId = order.Id, area="" });
+            
+            return RedirectToAction("Completed", "Cart", new { orderId = order.Id, area = "" });
         }
-
     }
 }

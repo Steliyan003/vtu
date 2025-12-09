@@ -9,7 +9,7 @@ namespace WebProject.Areas.Admin.Controllers
     {
         public IActionResult Index()
         {
-            // когато някой отвори /Admin/Home -> да го прати към Dashboard
+            
             return RedirectToAction("Index", "Dashboard");
         }
     }

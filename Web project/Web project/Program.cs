@@ -21,14 +21,12 @@ public class Program
 
         builder.Services.ConfigureApplicationCookie(options =>
         {
-            // Къде да праща НЕлогнат потребител, когато ресурс изисква [Authorize]
+           
             options.LoginPath = "/Account/Login";
 
-            // Къде да праща потребител, който НЯМА нужната роля/права
-            // (тук ако искаш може да е твоята AccessDenied страница или началната)
+            
             options.AccessDeniedPath = "/Home/Index";
-            // или, ако имаш отделна страница:
-            // options.AccessDeniedPath = "/Account/AccessDenied";
+           
         });
 
 
@@ -67,7 +65,7 @@ public class Program
             pattern: "Admin/{controller=Dashboard}/{action=Index}/{id?}",
             defaults: new { area = "Admin" });
 
-        // Normal routing
+        
         app.MapControllerRoute(
             name: "default",
             pattern: "{controller=Home}/{action=Index}/{id?}");

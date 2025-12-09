@@ -20,7 +20,7 @@ namespace WebProject.Controllers
             _userManager = userManager;
         }
 
-        // GET /Products
+        
         [AllowAnonymous]
         public async Task<IActionResult> Index()
         {
@@ -31,7 +31,7 @@ namespace WebProject.Controllers
             return View(products);
         }
 
-        // GET /Products/Details/5
+        
         [AllowAnonymous]
         public async Task<IActionResult> Details(int id)
         {
@@ -48,7 +48,7 @@ namespace WebProject.Controllers
             return View(product);
         }
 
-        // POST /Products/AddReview
+       
         [HttpPost]
         [Authorize]
         [ValidateAntiForgeryToken]
@@ -82,5 +82,36 @@ namespace WebProject.Controllers
             TempData["ReviewSuccess"] = "Благодарим за ревюто!";
             return RedirectToAction("Details", new { id = productId });
         }
+
+        [HttpPost]
+        [Authorize]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> DeleteReview(int reviewId, int productId)
+        {
+            var review = await _context.Reviews
+                .FirstOrDefaultAsync(r => r.Id == reviewId);
+
+            if (review == null)
+            {
+                TempData["ReviewError"] = "Ревюто не беше намерено.";
+                return RedirectToAction("Details", new { id = productId });
+            }
+
+            var userId = _userManager.GetUserId(User);
+
+            
+            if (review.UserId != userId)
+            {
+                TempData["ReviewError"] = "Нямате права да изтриете това ревю.";
+                return RedirectToAction("Details", new { id = productId });
+            }
+
+            _context.Reviews.Remove(review);
+            await _context.SaveChangesAsync();
+
+            TempData["ReviewSuccess"] = "Ревюто беше изтрито успешно.";
+            return RedirectToAction("Details", new { id = productId });
+        }
+
     }
 }

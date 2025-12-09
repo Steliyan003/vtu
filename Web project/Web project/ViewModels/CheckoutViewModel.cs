@@ -6,14 +6,14 @@ namespace WebProject.ViewModels
 {
     public class CheckoutViewModel
     {
-        // Продукти в количката
+        
         public List<OrderProduct> Items { get; set; } = new List<OrderProduct>();
 
-        // Общо
+        
         [Display(Name = "Обща сума")]
         public decimal TotalAmount { get; set; }
 
-        // Данни за клиента
+        
         [Required]
         [Display(Name = "Име и фамилия")]
         public string FullName { get; set; } = string.Empty;

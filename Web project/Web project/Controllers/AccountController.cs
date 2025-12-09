@@ -60,7 +60,7 @@ public class AccountController : Controller
 
         if (result.Succeeded)
         {
-            // ВСЕКИ нов потребител получава роля "User"
+            
             await _userManager.AddToRoleAsync(user, "User");
 
             return RedirectToAction("Login");
@@ -76,4 +76,9 @@ public class AccountController : Controller
         await _signInManager.SignOutAsync();
         return RedirectToAction("Index", "Home");
     }
+}
+class LoginModel
+{
+    public string Email { get; set; }
+    public string pass { get; set; }
 }

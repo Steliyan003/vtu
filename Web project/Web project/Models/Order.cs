@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace WebProject.Models
 {
@@ -11,10 +12,12 @@ namespace WebProject.Models
 
         public DateTime CreatedOn { get; set; }
 
-        // Флаг дали поръчката е завършена
-        public bool IsCompleted { get; set; }
 
-        // 🔽🔽🔽 НОВИ СВОЙСТВА ЗА ДАННИТЕ НА КЛИЕНТА 🔽🔽🔽
+        public bool IsCompleted { get; set; }
+        public bool IsCanceled { get; set; }
+
+
+
         public string? FullName { get; set; }
 
         public string? PhoneNumber { get; set; }
@@ -24,8 +27,12 @@ namespace WebProject.Models
         public string? City { get; set; }
 
         public string? Notes { get; set; }
-        // 🔼🔼🔼 НОВИ СВОЙСТВА 🔼🔼🔼
 
+
+        public ApplicationUser User { get; set; } = null!;
         public ICollection<OrderProduct> Items { get; set; } = new List<OrderProduct>();
+        
+
+
     }
 }

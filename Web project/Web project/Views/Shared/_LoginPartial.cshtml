@@ -5,6 +5,7 @@
 
 @if (SignInManager.IsSignedIn(User))
 {
+    
     <li class="nav-item">
         <a class="nav-link text-dark"
            asp-area=""
@@ -12,16 +13,26 @@
            asp-action="Index">
             🛒 Количка
         </a>
-
-
     </li>
 
+    
+    <li class="nav-item">
+        <a class="nav-link text-dark"
+           asp-area=""
+           asp-controller="Orders"
+           asp-action="History">
+            📦 История
+        </a>
+    </li>
+
+    
     <li class="nav-item">
         <span class="nav-link text-dark">
             Hello @User.Identity?.Name!
         </span>
     </li>
 
+    
     <li class="nav-item">
         <form class="form-inline"
               asp-area=""
@@ -44,7 +55,7 @@ else
     </li>
     <li class="nav-item">
         <a class="nav-link text-dark"
-           asp-area=""
+            asp-area="" 
            asp-controller="Account"
            asp-action="Register">
             Register

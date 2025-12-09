@@ -1,26 +1,32 @@
-﻿@{
-    ViewData["Title"] = "Поръчката е завършена";
+﻿@model WebProject.Models.Order
+
+@{
+    ViewData["Title"] = "Поръчката е приета";
 }
 
-<h2>Благодарим за поръчката!</h2>
+<div class="mt-4">
+    <h2>Благодарим за поръчката!</h2>
 
-@if (ViewBag.OrderId != null)
-{
-    <p>Номер на поръчката: <strong>@ViewBag.OrderId</strong></p>
-}
+    <p class="lead">
+        Номер на поръчка:
+        <strong>#@Model.Id</strong>
+    </p>
 
-<p>Ще се свържем с Вас за потвърждение на доставката.</p>
+    <p>
+        Ще се свържем с Вас за потвърждение на доставката.
+    </p>
 
-<a asp-area=""
-   asp-controller="Products"
-   asp-action="Index"
-   class="btn btn-primary">
-    Обратно към продуктите
-</a>
+    <a asp-area=""
+       asp-controller="Products"
+       asp-action="Index"
+       class="btn btn-primary me-2">
+        Обратно към продуктите
+    </a>
 
-<a asp-area=""
-   asp-controller="Home"
-   asp-action="Index"
-   class="btn btn-secondary ms-2">
-    Към началната страница
-</a>
+    <a asp-area=""
+       asp-controller="Home"
+       asp-action="Index"
+       class="btn btn-secondary">
+        Към началната страница
+    </a>
+</div>

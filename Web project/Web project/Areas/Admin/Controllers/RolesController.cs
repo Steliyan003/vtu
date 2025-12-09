@@ -21,10 +21,10 @@ namespace WebProject.Areas.Admin.Controllers
             _roleManager = roleManager;
         }
 
-        // GET: /Admin/Roles
+       
         public async Task<IActionResult> Index()
         {
-            // Убедяваме се, че ролите "Admin" и "User" съществуват
+            
             await EnsureBaseRolesExistAsync();
 
             var users = _userManager.Users.ToList();
@@ -40,7 +40,6 @@ namespace WebProject.Areas.Admin.Controllers
                 {
                     Id = u.Id,
                     Email = u.Email ?? "",
-                    // ако в ApplicationUser свойството не се казва DisplayName, смени го
                     DisplayName = u.DisplayName,
                     CurrentRole = currentRole
                 });
@@ -49,7 +48,7 @@ namespace WebProject.Areas.Admin.Controllers
             return View(model);
         }
 
-        // POST: /Admin/Roles/SetRole
+        
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> SetRole(string userId, string roleName)
@@ -66,7 +65,7 @@ namespace WebProject.Areas.Admin.Controllers
                 return RedirectToAction(nameof(Index));
             }
 
-            // позволяваме само тези две роли
+            
             if (roleName != "Admin" && roleName != "User")
             {
                 return RedirectToAction(nameof(Index));
@@ -74,13 +73,13 @@ namespace WebProject.Areas.Admin.Controllers
 
             var currentRoles = await _userManager.GetRolesAsync(user);
 
-            // махаме всички досегашни роли
+            
             if (currentRoles.Any())
             {
                 await _userManager.RemoveFromRolesAsync(user, currentRoles);
             }
 
-            // слагаме новата
+            
             await _userManager.AddToRoleAsync(user, roleName);
 
             return RedirectToAction(nameof(Index));

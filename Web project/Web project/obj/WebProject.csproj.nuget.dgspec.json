@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\WebProject.csproj": {}
+    "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\WebProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\WebProject.csproj": {
+    "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\WebProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\WebProject.csproj",
+        "projectUniqueName": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\WebProject.csproj",
         "projectName": "WebProject",
-        "projectPath": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\WebProject.csproj",
+        "projectPath": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\WebProject.csproj",
         "packagesPath": "C:\\Users\\rumen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\obj\\",
+        "outputPath": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

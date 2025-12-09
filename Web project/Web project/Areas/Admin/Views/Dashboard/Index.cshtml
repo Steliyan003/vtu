@@ -35,14 +35,27 @@
         <div class="col-md-4">
             <div class="card shadow-sm border-0">
                 <div class="card-body">
-                    <h5 class="card-title">Settings</h5>
-                    <p class="card-text">System-wide admin settings.</p>
-                    <a asp-area="Admin" asp-controller="Settings" asp-action="Index" class="btn btn-primary">
-                        Settings
+                    <h5 class="card-title">Orders</h5>
+                    <p class="card-text">View and confirm customer orders.</p>
+
+                   
+                    <a asp-area="Admin"
+                       asp-controller="Orders"
+                       asp-action="Index"
+                       class="btn btn-primary me-2">
+                        Manage Orders
                     </a>
 
+                    
+                    <a asp-area="Admin"
+                       asp-controller="Orders"
+                       asp-action="All"
+                       class="btn btn-outline-light">
+                        All Orders
+                    </a>
                 </div>
             </div>
         </div>
+
     </div>
 </div>

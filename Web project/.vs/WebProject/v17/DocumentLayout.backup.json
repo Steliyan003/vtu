@@ -1,230 +1,263 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\rumen\\source\\repos\\Web project\\",
+  "WorkspaceRootPath": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\source\\repos\\web project\\web project\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\source\\repos\\web project\\web project\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\source\\repos\\web project\\web project\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\source\\repos\\web project\\web project\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\source\\repos\\web project\\web project\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\source\\repos\\web project\\web project\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\source\\repos\\web project\\web project\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\source\\repos\\web project\\web project\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\source\\repos\\web project\\web project\\areas\\admin\\views\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\areas\\admin\\views\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\source\\repos\\web project\\web project\\viewmodels\\admin\\adminuserroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\viewmodels\\admin\\adminuserroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\source\\repos\\web project\\web project\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\source\\repos\\web project\\web project\\areas\\admin\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\areas\\admin\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\source\\repos\\web project\\web project\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\source\\repos\\web project\\web project\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\source\\repos\\web project\\web project\\models\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\models\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\source\\repos\\web project\\web project\\views\\checkout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\views\\checkout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\source\\repos\\web project\\web project\\views\\cart\\completed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\views\\cart\\completed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\source\\repos\\web project\\web project\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\source\\repos\\web project\\web project\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\source\\repos\\web project\\web project\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\source\\repos\\web project\\web project\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\source\\repos\\web project\\web project\\wwwroot\\css\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\wwwroot\\css\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\source\\repos\\web project\\web project\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\source\\repos\\web project\\web project\\viewmodels\\admin\\adminorderviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\viewmodels\\admin\\adminorderviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\source\\repos\\web project\\web project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\source\\repos\\web project\\web project\\viewmodels\\checkoutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\viewmodels\\checkoutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\source\\repos\\web project\\web project\\views\\checkout\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\views\\checkout\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\source\\repos\\web project\\web project\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\documents\\github\\vtu\\web project\\web project\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\source\\repos\\web project\\web project\\areas\\admin\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\areas\\admin\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\documents\\github\\vtu\\web project\\web project\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\source\\repos\\web project\\web project\\areas\\admin\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\areas\\admin\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\source\\repos\\web project\\web project\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\source\\repos\\web project\\web project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\documents\\github\\vtu\\web project\\web project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\source\\repos\\web project\\web project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\source\\repos\\web project\\web project\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\documents\\github\\vtu\\web project\\web project\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\source\\repos\\web project\\web project\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\source\\repos\\web project\\web project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\source\\repos\\web project\\web project\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\documents\\github\\vtu\\web project\\web project\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\source\\repos\\web project\\web project\\areas\\admin\\views\\settings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\documents\\github\\vtu\\web project\\web project\\areas\\admin\\views\\settings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\areas\\admin\\views\\settings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\source\\repos\\web project\\web project\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\documents\\github\\vtu\\web project\\web project\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\documents\\github\\vtu\\web project\\web project\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\source\\repos\\web project\\web project\\areas\\admin\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\documents\\github\\vtu\\web project\\web project\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\documents\\github\\vtu\\web project\\web project\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\documents\\github\\vtu\\web project\\web project\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\documents\\github\\vtu\\web project\\web project\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\documents\\github\\vtu\\web project\\web project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\documents\\github\\vtu\\web project\\web project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\documents\\github\\vtu\\web project\\web project\\views\\orders\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\views\\orders\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\documents\\github\\vtu\\web project\\web project\\views\\checkout\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\views\\checkout\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\documents\\github\\vtu\\web project\\web project\\views\\checkout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\views\\checkout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\documents\\github\\vtu\\web project\\web project\\views\\cart\\completed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\views\\cart\\completed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\documents\\github\\vtu\\web project\\web project\\viewmodels\\checkoutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\viewmodels\\checkoutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\documents\\github\\vtu\\web project\\web project\\viewmodels\\admin\\adminuserroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\viewmodels\\admin\\adminuserroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\documents\\github\\vtu\\web project\\web project\\viewmodels\\admin\\adminorderviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\viewmodels\\admin\\adminorderviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\documents\\github\\vtu\\web project\\web project\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\documents\\github\\vtu\\web project\\web project\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\documents\\github\\vtu\\web project\\web project\\models\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\models\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\documents\\github\\vtu\\web project\\web project\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\documents\\github\\vtu\\web project\\web project\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\documents\\github\\vtu\\web project\\web project\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\documents\\github\\vtu\\web project\\web project\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\documents\\github\\vtu\\web project\\web project\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\documents\\github\\vtu\\web project\\web project\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\documents\\github\\vtu\\web project\\web project\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\documents\\github\\vtu\\web project\\web project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\documents\\github\\vtu\\web project\\web project\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\documents\\github\\vtu\\web project\\web project\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\documents\\github\\vtu\\web project\\web project\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\documents\\github\\vtu\\web project\\web project\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\documents\\github\\vtu\\web project\\web project\\areas\\admin\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\areas\\admin\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\documents\\github\\vtu\\web project\\web project\\areas\\admin\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\areas\\admin\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\documents\\github\\vtu\\web project\\web project\\areas\\admin\\views\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\areas\\admin\\views\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\documents\\github\\vtu\\web project\\web project\\areas\\admin\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\areas\\admin\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\documents\\github\\vtu\\web project\\web project\\areas\\admin\\views\\orders\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\areas\\admin\\views\\orders\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\documents\\github\\vtu\\web project\\web project\\areas\\admin\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\areas\\admin\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\source\\repos\\web project\\web project\\areas\\admin\\controllers\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\documents\\github\\vtu\\web project\\web project\\areas\\admin\\controllers\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\areas\\admin\\controllers\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\source\\repos\\web project\\web project\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\documents\\github\\vtu\\web project\\web project\\areas\\admin\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\areas\\admin\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\documents\\github\\vtu\\web project\\web project\\areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\documents\\github\\vtu\\web project\\web project\\areas\\admin\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\areas\\admin\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\documents\\github\\vtu\\web project\\web project\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\source\\repos\\web project\\web project\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\documents\\github\\vtu\\web project\\web project\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\source\\repos\\web project\\web project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\documents\\github\\vtu\\web project\\web project\\areas\\admin\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\areas\\admin\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\documents\\github\\vtu\\web project\\web project\\wwwroot\\css\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\wwwroot\\css\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\documents\\github\\vtu\\web project\\web project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Migrations\\20251124211447_FixRelations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Web project\\Migrations\\20251124211447_FixRelations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Migrations\\20251124211447_FixRelations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Migrations\\20251124211013_FixProductUserFK.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Web project\\Migrations\\20251124211013_FixProductUserFK.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Migrations\\20251124211013_FixProductUserFK.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Migrations\\20251124210552_AddUserRelationToProducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Web project\\Migrations\\20251124210552_AddUserRelationToProducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Migrations\\20251124210552_AddUserRelationToProducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Migrations\\20251124173242_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Web project\\Migrations\\20251124173242_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Migrations\\20251124173242_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Migrations\\20251124121235_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Web project\\Migrations\\20251124121235_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Migrations\\20251124121235_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Migrations\\20251124120746_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Web project\\Migrations\\20251124120746_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Migrations\\20251124120746_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Migrations\\20251124113315_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Web project\\Migrations\\20251124113315_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Migrations\\20251124113315_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\source\\repos\\web project\\web project\\migrations\\20251124211755_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\documents\\github\\vtu\\web project\\web project\\migrations\\20251124211755_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\migrations\\20251124211755_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\source\\repos\\web project\\web project\\migrations\\20251126212602_addcheckoutfieldstoorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\documents\\github\\vtu\\web project\\web project\\migrations\\20251126212602_addcheckoutfieldstoorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\migrations\\20251126212602_addcheckoutfieldstoorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\source\\repos\\web project\\web project\\migrations\\20251126183726_removeuseridfromproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\documents\\github\\vtu\\web project\\web project\\migrations\\20251126183726_removeuseridfromproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\migrations\\20251126183726_removeuseridfromproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\source\\repos\\web project\\web project\\migrations\\20251127112540_addordercustomerfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\documents\\github\\vtu\\web project\\web project\\migrations\\20251127112540_addordercustomerfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\migrations\\20251127112540_addordercustomerfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\source\\repos\\web project\\web project\\migrations\\20251127110938_addorderiscompleted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\documents\\github\\vtu\\web project\\web project\\migrations\\20251127110938_addorderiscompleted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\migrations\\20251127110938_addorderiscompleted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\documents\\github\\vtu\\web project\\web project\\migrations\\20251201164452_addcreatedontoreviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\migrations\\20251201164452_addcreatedontoreviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\documents\\github\\vtu\\web project\\web project\\migrations\\20251201163547_addratingtoreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\migrations\\20251201163547_addratingtoreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|c:\\users\\rumen\\documents\\github\\vtu\\web project\\web project\\migrations\\20251201162035_addiscanceledtoorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E8FD02-DFE6-4BDD-8CAF-090402CDC83B}|Web project\\WebProject.csproj|solutionrelative:web project\\migrations\\20251201162035_addiscanceledtoorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -234,7 +267,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -242,168 +275,697 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Models\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "Web project\\Models\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Models\\ApplicationUser.cs",
-              "RelativeToolTip": "Web project\\Models\\ApplicationUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T11:05:13.635Z"
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Web project\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Web project\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-24T11:42:29.976Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "Web project\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "Web project\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAMwEkAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T17:08:37.148Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Views\\Products\\Index.cshtml",
-              "RelativeDocumentMoniker": "Web project\\Views\\Products\\Index.cshtml",
-              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Views\\Products\\Index.cshtml",
-              "RelativeToolTip": "Web project\\Views\\Products\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Web project\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Web project\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-26T17:13:35.537Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Areas\\Admin\\Views\\Roles\\Index.cshtml",
-              "RelativeDocumentMoniker": "Web project\\Areas\\Admin\\Views\\Roles\\Index.cshtml",
-              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Areas\\Admin\\Views\\Roles\\Index.cshtml",
-              "RelativeToolTip": "Web project\\Areas\\Admin\\Views\\Roles\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-24T19:31:50.353Z"
+              "WhenOpened": "2025-11-24T17:21:24.777Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Review.cs",
-              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Models\\Review.cs",
-              "RelativeDocumentMoniker": "Web project\\Models\\Review.cs",
-              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Models\\Review.cs",
-              "RelativeToolTip": "Web project\\Models\\Review.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Web project\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Web project\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIA8wBQAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T11:04:44.154Z"
+              "WhenOpened": "2025-11-24T17:16:18.049Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CartController.cs",
-              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Controllers\\CartController.cs",
-              "RelativeDocumentMoniker": "Web project\\Controllers\\CartController.cs",
-              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Controllers\\CartController.cs",
-              "RelativeToolTip": "Web project\\Controllers\\CartController.cs",
-              "ViewState": "AgIAAHMAAAAAAAAAAAAAwIYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T17:33:24.315Z"
+              "DocumentIndex": 8,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Web project\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Web project\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-24T18:51:02.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Areas\\Admin\\Views\\Settings\\Index.cshtml",
+              "RelativeDocumentMoniker": "Web project\\Areas\\Admin\\Views\\Settings\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Areas\\Admin\\Views\\Settings\\Index.cshtml",
+              "RelativeToolTip": "Web project\\Areas\\Admin\\Views\\Settings\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-24T19:32:57.687Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Web project\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Views\\Shared\\_LoginPartial.cshtml*",
+              "RelativeToolTip": "Web project\\Views\\Shared\\_LoginPartial.cshtml*",
+              "ViewState": "AgIAACcAAAAAAAAAAADwvzkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T11:49:02.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Web project\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Web project\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-24T17:21:55.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Web project\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Web project\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAADUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-24T17:22:48.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Views\\Cart\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Views\\Cart\\Index.cshtml",
               "RelativeDocumentMoniker": "Web project\\Views\\Cart\\Index.cshtml",
-              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Views\\Cart\\Index.cshtml",
               "RelativeToolTip": "Web project\\Views\\Cart\\Index.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAcwDEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAEwAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-26T17:34:24.658Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "RolesController.cs",
-              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Areas\\Admin\\Controllers\\RolesController.cs",
-              "RelativeDocumentMoniker": "Web project\\Areas\\Admin\\Controllers\\RolesController.cs",
-              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Areas\\Admin\\Controllers\\RolesController.cs",
-              "RelativeToolTip": "Web project\\Areas\\Admin\\Controllers\\RolesController.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAcwGYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T19:29:39.369Z"
+              "DocumentIndex": 10,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Web project\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Web project\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAAAMIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-26T15:45:34.614Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Web project\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Web project\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA8AAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T11:07:56.955Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Views\\Products\\Details.cshtml",
-              "RelativeDocumentMoniker": "Web project\\Views\\Products\\Details.cshtml",
-              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Views\\Products\\Details.cshtml",
-              "RelativeToolTip": "Web project\\Views\\Products\\Details.cshtml",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAcwC4AAABPAAAAAAAAAA==",
+              "DocumentIndex": 17,
+              "Title": "Completed.cshtml",
+              "DocumentMoniker": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Views\\Cart\\Completed.cshtml",
+              "RelativeDocumentMoniker": "Web project\\Views\\Cart\\Completed.cshtml",
+              "ToolTip": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Views\\Cart\\Completed.cshtml",
+              "RelativeToolTip": "Web project\\Views\\Cart\\Completed.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-26T21:15:40.028Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Web project\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Models\\Product.cs",
-              "RelativeToolTip": "Web project\\Models\\Product.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA5wBYAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T11:01:31.868Z"
+              "WhenOpened": "2025-11-27T00:01:18.045Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "AdminUserRoleViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\ViewModels\\Admin\\AdminUserRoleViewModel.cs",
-              "RelativeDocumentMoniker": "Web project\\ViewModels\\Admin\\AdminUserRoleViewModel.cs",
-              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\ViewModels\\Admin\\AdminUserRoleViewModel.cs",
-              "RelativeToolTip": "Web project\\ViewModels\\Admin\\AdminUserRoleViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "Web project\\Views\\Products\\Details.cshtml",
+              "ToolTip": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "Web project\\Views\\Products\\Details.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAL8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T21:15:40.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Program.cs",
+              "RelativeDocumentMoniker": "Web project\\Program.cs",
+              "ToolTip": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Program.cs",
+              "RelativeToolTip": "Web project\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T11:47:25.852Z"
+              "WhenOpened": "2025-11-24T10:39:33.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Web project\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Web project\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T17:13:35.537Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "OrderProduct.cs",
-              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Models\\OrderProduct.cs",
-              "RelativeDocumentMoniker": "Web project\\Models\\OrderProduct.cs",
-              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Models\\OrderProduct.cs",
-              "RelativeToolTip": "Web project\\Models\\OrderProduct.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAcAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T11:04:14.299Z"
+              "Title": "History.cshtml",
+              "DocumentMoniker": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Views\\Orders\\History.cshtml",
+              "RelativeDocumentMoniker": "Web project\\Views\\Orders\\History.cshtml",
+              "ToolTip": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Views\\Orders\\History.cshtml",
+              "RelativeToolTip": "Web project\\Views\\Orders\\History.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T15:49:09.981Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Web project\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Web project\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T15:31:01.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Views\\Checkout\\Success.cshtml",
+              "RelativeDocumentMoniker": "Web project\\Views\\Checkout\\Success.cshtml",
+              "ToolTip": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Views\\Checkout\\Success.cshtml",
+              "RelativeToolTip": "Web project\\Views\\Checkout\\Success.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T22:50:14.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Views\\Checkout\\Index.cshtml",
+              "RelativeDocumentMoniker": "Web project\\Views\\Checkout\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Views\\Checkout\\Index.cshtml",
+              "RelativeToolTip": "Web project\\Views\\Checkout\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T22:45:57.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CheckoutViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\ViewModels\\CheckoutViewModel.cs",
+              "RelativeDocumentMoniker": "Web project\\ViewModels\\CheckoutViewModel.cs",
+              "ToolTip": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\ViewModels\\CheckoutViewModel.cs",
+              "RelativeToolTip": "Web project\\ViewModels\\CheckoutViewModel.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T21:28:35.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AdminUserRoleViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\ViewModels\\Admin\\AdminUserRoleViewModel.cs",
+              "RelativeDocumentMoniker": "Web project\\ViewModels\\Admin\\AdminUserRoleViewModel.cs",
+              "ToolTip": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\ViewModels\\Admin\\AdminUserRoleViewModel.cs",
+              "RelativeToolTip": "Web project\\ViewModels\\Admin\\AdminUserRoleViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T11:47:25.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AdminOrderViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\ViewModels\\Admin\\AdminOrderViewModels.cs",
+              "RelativeDocumentMoniker": "Web project\\ViewModels\\Admin\\AdminOrderViewModels.cs",
+              "ToolTip": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\ViewModels\\Admin\\AdminOrderViewModels.cs",
+              "RelativeToolTip": "Web project\\ViewModels\\Admin\\AdminOrderViewModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T00:31:31.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "Web project\\Models\\Review.cs",
+              "ToolTip": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Models\\Review.cs",
+              "RelativeToolTip": "Web project\\Models\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T11:04:44.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Web project\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Models\\Product.cs",
+              "RelativeToolTip": "Web project\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T11:01:31.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OrderProduct.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Models\\OrderProduct.cs",
+              "RelativeDocumentMoniker": "Web project\\Models\\OrderProduct.cs",
+              "ToolTip": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Models\\OrderProduct.cs",
+              "RelativeToolTip": "Web project\\Models\\OrderProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T11:04:14.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Web project\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Models\\Order.cs",
+              "RelativeToolTip": "Web project\\Models\\Order.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T11:03:21.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Web project\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Web project\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T11:09:31.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Web project\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Models\\Category.cs",
+              "RelativeToolTip": "Web project\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T11:02:27.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Web project\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Web project\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T11:05:13.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Web project\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Web project\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T11:07:56.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Web project\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Web project\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T17:08:37.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Web project\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Web project\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T15:47:58.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Web project\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Web project\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T11:27:06.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CheckoutController.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Controllers\\CheckoutController.cs",
+              "RelativeDocumentMoniker": "Web project\\Controllers\\CheckoutController.cs",
+              "ToolTip": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Controllers\\CheckoutController.cs",
+              "RelativeToolTip": "Web project\\Controllers\\CheckoutController.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAkwBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T22:41:31.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Web project\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Web project\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAiwBkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T17:33:24.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Web project\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Web project\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-24T18:41:36.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Web project\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Web project\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T20:29:00.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Areas\\Admin\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "Web project\\Areas\\Admin\\Views\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Areas\\Admin\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "Web project\\Areas\\Admin\\Views\\Users\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-24T18:57:40.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Areas\\Admin\\Views\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Web project\\Areas\\Admin\\Views\\Users\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Areas\\Admin\\Views\\Users\\Edit.cshtml",
+              "RelativeToolTip": "Web project\\Areas\\Admin\\Views\\Users\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T20:23:50.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Areas\\Admin\\Views\\Roles\\Index.cshtml",
+              "RelativeDocumentMoniker": "Web project\\Areas\\Admin\\Views\\Roles\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Areas\\Admin\\Views\\Roles\\Index.cshtml",
+              "RelativeToolTip": "Web project\\Areas\\Admin\\Views\\Roles\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-24T19:31:50.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Areas\\Admin\\Views\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "Web project\\Areas\\Admin\\Views\\Orders\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Areas\\Admin\\Views\\Orders\\Index.cshtml",
+              "RelativeToolTip": "Web project\\Areas\\Admin\\Views\\Orders\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T15:22:44.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "All.cshtml",
+              "DocumentMoniker": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Areas\\Admin\\Views\\Orders\\All.cshtml",
+              "RelativeDocumentMoniker": "Web project\\Areas\\Admin\\Views\\Orders\\All.cshtml",
+              "ToolTip": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Areas\\Admin\\Views\\Orders\\All.cshtml",
+              "RelativeToolTip": "Web project\\Areas\\Admin\\Views\\Orders\\All.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-05T13:16:16.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Areas\\Admin\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Web project\\Areas\\Admin\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Areas\\Admin\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Web project\\Areas\\Admin\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T18:56:17.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "SettingsController.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Areas\\Admin\\Controllers\\SettingsController.cs",
+              "RelativeDocumentMoniker": "Web project\\Areas\\Admin\\Controllers\\SettingsController.cs",
+              "ToolTip": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Areas\\Admin\\Controllers\\SettingsController.cs",
+              "RelativeToolTip": "Web project\\Areas\\Admin\\Controllers\\SettingsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T19:32:19.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Areas\\Admin\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "Web project\\Areas\\Admin\\Controllers\\RolesController.cs",
+              "ToolTip": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Areas\\Admin\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "Web project\\Areas\\Admin\\Controllers\\RolesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T19:29:39.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Web project\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Web project\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T17:01:34.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Areas\\Admin\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Web project\\Areas\\Admin\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Areas\\Admin\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Web project\\Areas\\Admin\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwCQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T15:21:41.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Web project\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Web project\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T17:42:01.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Web project\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Web project\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T11:41:13.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Areas\\Admin\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Web project\\Areas\\Admin\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Areas\\Admin\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Web project\\Areas\\Admin\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T18:17:29.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "admin.css",
+              "DocumentMoniker": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\wwwroot\\css\\admin.css",
+              "RelativeDocumentMoniker": "Web project\\wwwroot\\css\\admin.css",
+              "ToolTip": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\wwwroot\\css\\admin.css",
+              "RelativeToolTip": "Web project\\wwwroot\\css\\admin.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-27T00:54:26.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "20251201164452_AddCreatedOnToReviews.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Migrations\\20251201164452_AddCreatedOnToReviews.cs",
+              "RelativeDocumentMoniker": "Web project\\Migrations\\20251201164452_AddCreatedOnToReviews.cs",
+              "ToolTip": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Migrations\\20251201164452_AddCreatedOnToReviews.cs",
+              "RelativeToolTip": "Web project\\Migrations\\20251201164452_AddCreatedOnToReviews.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T16:44:52.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "20251201163547_AddRatingToReview.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Migrations\\20251201163547_AddRatingToReview.cs",
+              "RelativeDocumentMoniker": "Web project\\Migrations\\20251201163547_AddRatingToReview.cs",
+              "ToolTip": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Migrations\\20251201163547_AddRatingToReview.cs",
+              "RelativeToolTip": "Web project\\Migrations\\20251201163547_AddRatingToReview.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T16:35:47.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "20251201162035_AddIsCanceledToOrder.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Migrations\\20251201162035_AddIsCanceledToOrder.cs",
+              "RelativeDocumentMoniker": "Web project\\Migrations\\20251201162035_AddIsCanceledToOrder.cs",
+              "ToolTip": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Migrations\\20251201162035_AddIsCanceledToOrder.cs",
+              "RelativeToolTip": "Web project\\Migrations\\20251201162035_AddIsCanceledToOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T16:20:35.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
               "Title": "20251127112540_AddOrderCustomerFields.cs",
-              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Migrations\\20251127112540_AddOrderCustomerFields.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Migrations\\20251127112540_AddOrderCustomerFields.cs",
               "RelativeDocumentMoniker": "Web project\\Migrations\\20251127112540_AddOrderCustomerFields.cs",
-              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Migrations\\20251127112540_AddOrderCustomerFields.cs",
+              "ToolTip": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Migrations\\20251127112540_AddOrderCustomerFields.cs",
               "RelativeToolTip": "Web project\\Migrations\\20251127112540_AddOrderCustomerFields.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -411,71 +973,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CheckoutController.cs",
-              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Controllers\\CheckoutController.cs",
-              "RelativeDocumentMoniker": "Web project\\Controllers\\CheckoutController.cs",
-              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Controllers\\CheckoutController.cs",
-              "RelativeToolTip": "Web project\\Controllers\\CheckoutController.cs",
-              "ViewState": "AgIAAF4AAAAAAAAAAAAkwGsAAABcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T22:41:31.24Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "Web project\\Models\\Order.cs",
-              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Models\\Order.cs",
-              "RelativeToolTip": "Web project\\Models\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T11:03:21.731Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Views\\Checkout\\Index.cshtml",
-              "RelativeDocumentMoniker": "Web project\\Views\\Checkout\\Index.cshtml",
-              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Views\\Checkout\\Index.cshtml",
-              "RelativeToolTip": "Web project\\Views\\Checkout\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-26T22:45:57.324Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "Web project\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "Web project\\Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-24T20:09:31.963Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Completed.cshtml",
-              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Views\\Cart\\Completed.cshtml",
-              "RelativeDocumentMoniker": "Web project\\Views\\Cart\\Completed.cshtml",
-              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Views\\Cart\\Completed.cshtml",
-              "RelativeToolTip": "Web project\\Views\\Cart\\Completed.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-27T00:01:18.045Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 62,
               "Title": "20251127110938_AddOrderIsCompleted.cs",
-              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Migrations\\20251127110938_AddOrderIsCompleted.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Migrations\\20251127110938_AddOrderIsCompleted.cs",
               "RelativeDocumentMoniker": "Web project\\Migrations\\20251127110938_AddOrderIsCompleted.cs",
-              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Migrations\\20251127110938_AddOrderIsCompleted.cs",
+              "ToolTip": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Migrations\\20251127110938_AddOrderIsCompleted.cs",
               "RelativeToolTip": "Web project\\Migrations\\20251127110938_AddOrderIsCompleted.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -483,143 +985,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Web project\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Web project\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-24T18:41:36.865Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "Web project\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "Web project\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKgAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-11-26T15:45:34.614Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Views\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "Web project\\Views\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Views\\Account\\Register.cshtml",
-              "RelativeToolTip": "Web project\\Views\\Account\\Register.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-24T17:21:55.872Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "_AdminLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeDocumentMoniker": "Web project\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeToolTip": "Web project\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAIwCkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-24T18:51:02.053Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Web project\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Models\\Category.cs",
-              "RelativeToolTip": "Web project\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T11:02:27.302Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "CheckoutViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\ViewModels\\CheckoutViewModel.cs",
-              "RelativeDocumentMoniker": "Web project\\ViewModels\\CheckoutViewModel.cs",
-              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\ViewModels\\CheckoutViewModel.cs",
-              "RelativeToolTip": "Web project\\ViewModels\\CheckoutViewModel.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAA2wCUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T21:28:35.199Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "admin.css",
-              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\wwwroot\\css\\admin.css",
-              "RelativeDocumentMoniker": "Web project\\wwwroot\\css\\admin.css",
-              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\wwwroot\\css\\admin.css",
-              "RelativeToolTip": "Web project\\wwwroot\\css\\admin.css",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAMcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-11-27T00:54:26.816Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "AdminOrderViewModels.cs",
-              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\ViewModels\\Admin\\AdminOrderViewModels.cs",
-              "RelativeDocumentMoniker": "Web project\\ViewModels\\Admin\\AdminOrderViewModels.cs",
-              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\ViewModels\\Admin\\AdminOrderViewModels.cs",
-              "RelativeToolTip": "Web project\\ViewModels\\Admin\\AdminOrderViewModels.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAcwAwAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T00:31:31.68Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Program.cs",
-              "RelativeDocumentMoniker": "Web project\\Program.cs",
-              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Program.cs",
-              "RelativeToolTip": "Web project\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwCQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T10:39:33.228Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Success.cshtml",
-              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Views\\Checkout\\Success.cshtml",
-              "RelativeDocumentMoniker": "Web project\\Views\\Checkout\\Success.cshtml",
-              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Views\\Checkout\\Success.cshtml",
-              "RelativeToolTip": "Web project\\Views\\Checkout\\Success.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-26T22:50:14.722Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Areas\\Admin\\Views\\Users\\Index.cshtml",
-              "RelativeDocumentMoniker": "Web project\\Areas\\Admin\\Views\\Users\\Index.cshtml",
-              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Areas\\Admin\\Views\\Users\\Index.cshtml",
-              "RelativeToolTip": "Web project\\Areas\\Admin\\Views\\Users\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-24T18:57:40.406Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 59,
               "Title": "20251126212602_AddCheckoutFieldsToOrder.cs",
-              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Migrations\\20251126212602_AddCheckoutFieldsToOrder.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Migrations\\20251126212602_AddCheckoutFieldsToOrder.cs",
               "RelativeDocumentMoniker": "Web project\\Migrations\\20251126212602_AddCheckoutFieldsToOrder.cs",
-              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Migrations\\20251126212602_AddCheckoutFieldsToOrder.cs",
+              "ToolTip": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Migrations\\20251126212602_AddCheckoutFieldsToOrder.cs",
               "RelativeToolTip": "Web project\\Migrations\\20251126212602_AddCheckoutFieldsToOrder.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -627,179 +997,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Web project\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Web project\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-24T17:22:48.211Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Areas\\Admin\\Views\\Users\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Web project\\Areas\\Admin\\Views\\Users\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Areas\\Admin\\Views\\Users\\Edit.cshtml",
-              "RelativeToolTip": "Web project\\Areas\\Admin\\Views\\Users\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-26T20:23:50.846Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Web project\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Web project\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-26T20:29:00.145Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Web project\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Web project\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-26T15:31:01.166Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "Web project\\Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "Web project\\Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-24T17:21:24.777Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Web project\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Web project\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T11:09:31.135Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Web project\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Web project\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T11:27:06.723Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Web project\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Web project\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T17:16:18.049Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Areas\\Admin\\Views\\Settings\\Index.cshtml",
-              "RelativeDocumentMoniker": "Web project\\Areas\\Admin\\Views\\Settings\\Index.cshtml",
-              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Areas\\Admin\\Views\\Settings\\Index.cshtml",
-              "RelativeToolTip": "Web project\\Areas\\Admin\\Views\\Settings\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-24T19:32:57.687Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeDocumentMoniker": "Web project\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeToolTip": "Web project\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-24T11:42:29.976Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Areas\\Admin\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "Web project\\Areas\\Admin\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Areas\\Admin\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "Web project\\Areas\\Admin\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAgwCsAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T18:56:17.513Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "SettingsController.cs",
-              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Areas\\Admin\\Controllers\\SettingsController.cs",
-              "RelativeDocumentMoniker": "Web project\\Areas\\Admin\\Controllers\\SettingsController.cs",
-              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Areas\\Admin\\Controllers\\SettingsController.cs",
-              "RelativeToolTip": "Web project\\Areas\\Admin\\Controllers\\SettingsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T19:32:19.357Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Web project\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Web project\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T17:42:01.12Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "Web project\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "Web project\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T11:41:13.88Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 60,
               "Title": "20251126183726_RemoveUserIdFromProducts.cs",
-              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Migrations\\20251126183726_RemoveUserIdFromProducts.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Migrations\\20251126183726_RemoveUserIdFromProducts.cs",
               "RelativeDocumentMoniker": "Web project\\Migrations\\20251126183726_RemoveUserIdFromProducts.cs",
-              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Migrations\\20251126183726_RemoveUserIdFromProducts.cs",
+              "ToolTip": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Migrations\\20251126183726_RemoveUserIdFromProducts.cs",
               "RelativeToolTip": "Web project\\Migrations\\20251126183726_RemoveUserIdFromProducts.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -807,11 +1009,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 50,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\appsettings.json",
               "RelativeDocumentMoniker": "Web project\\appsettings.json",
-              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\appsettings.json",
+              "ToolTip": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\appsettings.json",
               "RelativeToolTip": "Web project\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -819,44 +1021,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 53,
               "Title": "20251124210552_AddUserRelationToProducts.cs",
               "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Migrations\\20251124210552_AddUserRelationToProducts.cs",
-              "RelativeDocumentMoniker": "Web project\\Migrations\\20251124210552_AddUserRelationToProducts.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\Web project\\Web project\\Migrations\\20251124210552_AddUserRelationToProducts.cs",
               "ToolTip": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Migrations\\20251124210552_AddUserRelationToProducts.cs",
-              "RelativeToolTip": "Web project\\Migrations\\20251124210552_AddUserRelationToProducts.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\Web project\\Web project\\Migrations\\20251124210552_AddUserRelationToProducts.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T21:05:52.284Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 52,
               "Title": "20251124211013_FixProductUserFK.cs",
               "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Migrations\\20251124211013_FixProductUserFK.cs",
-              "RelativeDocumentMoniker": "Web project\\Migrations\\20251124211013_FixProductUserFK.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\Web project\\Web project\\Migrations\\20251124211013_FixProductUserFK.cs",
               "ToolTip": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Migrations\\20251124211013_FixProductUserFK.cs",
-              "RelativeToolTip": "Web project\\Migrations\\20251124211013_FixProductUserFK.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\Web project\\Web project\\Migrations\\20251124211013_FixProductUserFK.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T21:10:13.87Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 51,
               "Title": "20251124211447_FixRelations.cs",
               "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Migrations\\20251124211447_FixRelations.cs",
-              "RelativeDocumentMoniker": "Web project\\Migrations\\20251124211447_FixRelations.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\Web project\\Web project\\Migrations\\20251124211447_FixRelations.cs",
               "ToolTip": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Migrations\\20251124211447_FixRelations.cs",
-              "RelativeToolTip": "Web project\\Migrations\\20251124211447_FixRelations.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\Web project\\Web project\\Migrations\\20251124211447_FixRelations.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T21:14:47.18Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 58,
               "Title": "20251124211755_Init.cs",
-              "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Migrations\\20251124211755_Init.cs",
+              "DocumentMoniker": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Migrations\\20251124211755_Init.cs",
               "RelativeDocumentMoniker": "Web project\\Migrations\\20251124211755_Init.cs",
-              "ToolTip": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Migrations\\20251124211755_Init.cs",
+              "ToolTip": "C:\\Users\\rumen\\Documents\\GitHub\\vtu\\Web project\\Web project\\Migrations\\20251124211755_Init.cs",
               "RelativeToolTip": "Web project\\Migrations\\20251124211755_Init.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -864,45 +1066,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 54,
               "Title": "20251124173242_Initial.cs",
               "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Migrations\\20251124173242_Initial.cs",
-              "RelativeDocumentMoniker": "Web project\\Migrations\\20251124173242_Initial.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\Web project\\Web project\\Migrations\\20251124173242_Initial.cs",
               "ToolTip": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Migrations\\20251124173242_Initial.cs",
-              "RelativeToolTip": "Web project\\Migrations\\20251124173242_Initial.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\Web project\\Web project\\Migrations\\20251124173242_Initial.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T17:32:42.487Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 57,
               "Title": "20251124113315_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Migrations\\20251124113315_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Web project\\Migrations\\20251124113315_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\Web project\\Web project\\Migrations\\20251124113315_InitialCreate.cs",
               "ToolTip": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Migrations\\20251124113315_InitialCreate.cs",
-              "RelativeToolTip": "Web project\\Migrations\\20251124113315_InitialCreate.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\Web project\\Web project\\Migrations\\20251124113315_InitialCreate.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T11:33:15.473Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 56,
               "Title": "20251124120746_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Migrations\\20251124120746_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Web project\\Migrations\\20251124120746_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\Web project\\Web project\\Migrations\\20251124120746_InitialCreate.cs",
               "ToolTip": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Migrations\\20251124120746_InitialCreate.cs",
-              "RelativeToolTip": "Web project\\Migrations\\20251124120746_InitialCreate.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\Web project\\Web project\\Migrations\\20251124120746_InitialCreate.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T12:07:46.197Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 55,
               "Title": "20251124121235_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Migrations\\20251124121235_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Web project\\Migrations\\20251124121235_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\Web project\\Web project\\Migrations\\20251124121235_InitialCreate.cs",
               "ToolTip": "C:\\Users\\rumen\\source\\repos\\Web project\\Web project\\Migrations\\20251124121235_InitialCreate.cs",
-              "RelativeToolTip": "Web project\\Migrations\\20251124121235_InitialCreate.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\Web project\\Web project\\Migrations\\20251124121235_InitialCreate.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T12:12:35.987Z"
             }

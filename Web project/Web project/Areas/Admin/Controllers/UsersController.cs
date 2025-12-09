@@ -21,7 +21,7 @@ namespace WebProject.Areas.Admin.Controllers
         }
 
         
-        //[HttpGet]
+        
         public IActionResult Edit(string id)
         {
             var user =  Task.Run(()=> _userManager.FindByIdAsync(id)).Result;

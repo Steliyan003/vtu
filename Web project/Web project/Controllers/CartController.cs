@@ -1,7 +1,10 @@
-﻿using Microsoft.AspNetCore.Authorization;
+﻿using System;
+using System.Linq;
+using System.Security.Claims;
+using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using System.Security.Claims;
 using WebProject.Data;
 using WebProject.Models;
 
@@ -20,68 +23,60 @@ namespace WebProject.Controllers
         private string? GetUserId()
             => User.FindFirstValue(ClaimTypes.NameIdentifier);
 
-        // GET /Cart
+      
         [HttpGet]
         public async Task<IActionResult> Index()
         {
             var userId = GetUserId();
             if (userId == null)
-            {
                 return RedirectToAction("Login", "Account");
-            }
 
-            // 🔹 ВЗИМАМЕ САМО НЕЗАВЪРШЕНА ПОРЪЧКА
             var order = await _context.Orders
                 .Include(o => o.Items)
                     .ThenInclude(i => i.Product)
-                .Where(o => o.UserId == userId && !o.IsCompleted)
-                .OrderByDescending(o => o.CreatedOn)
-                .FirstOrDefaultAsync();
+                .FirstOrDefaultAsync(o => o.UserId == userId &&
+                                          !o.IsCompleted &&
+                                          !o.IsCanceled &&
+                                          string.IsNullOrEmpty(o.FullName)); // активна "празна" поръчка
 
             if (order == null || !order.Items.Any())
-            {
-                return View(new List<OrderProduct>());
-            }
+                return View(Enumerable.Empty<OrderProduct>());
 
-            return View(order.Items.ToList());
+            return View(order.Items);
         }
 
-        // POST /Cart/Add
+        
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Add(int productId, int quantity = 1)
+        public async Task<IActionResult> Add(int productId, int quantity)
         {
             var userId = GetUserId();
             if (userId == null)
-            {
                 return RedirectToAction("Login", "Account");
-            }
 
-            // 🔹 ВЗИМАМЕ САМО НЕЗАВЪРШЕНА ПОРЪЧКА
+            var product = await _context.Products.FindAsync(productId);
+            if (product == null)
+                return NotFound();
+
             var order = await _context.Orders
                 .Include(o => o.Items)
-                .Where(o => o.UserId == userId && !o.IsCompleted)
-                .OrderByDescending(o => o.CreatedOn)
-                .FirstOrDefaultAsync();
+                .FirstOrDefaultAsync(o => o.UserId == userId &&
+                                          !o.IsCompleted &&
+                                          !o.IsCanceled &&
+                                          string.IsNullOrEmpty(o.FullName));
 
-            // ако няма незавършена – създаваме нова
             if (order == null)
             {
                 order = new Order
                 {
                     UserId = userId,
-                    CreatedOn = DateTime.UtcNow,
-                    IsCompleted = false,
-                    Items = new List<OrderProduct>()
+                    CreatedOn = DateTime.Now
                 };
-
                 _context.Orders.Add(order);
             }
 
-            var existingItem = order.Items
-                .FirstOrDefault(i => i.ProductId == productId);
-
-            if (existingItem == null)
+            var item = order.Items.FirstOrDefault(i => i.ProductId == productId);
+            if (item == null)
             {
                 order.Items.Add(new OrderProduct
                 {
@@ -91,55 +86,71 @@ namespace WebProject.Controllers
             }
             else
             {
-                existingItem.Quantity += quantity;
+                item.Quantity += quantity;
             }
 
             await _context.SaveChangesAsync();
 
+           
             return RedirectToAction("Index", "Cart", new { area = "" });
-
         }
 
-        // POST /Cart/Remove
+        
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Remove(int productId)
+        public async Task<IActionResult> Remove(int productId, int quantity)
         {
             var userId = GetUserId();
             if (userId == null)
-            {
                 return RedirectToAction("Login", "Account");
-            }
 
-            // пак търсим само незавършената поръчка
             var order = await _context.Orders
                 .Include(o => o.Items)
-                .Where(o => o.UserId == userId && !o.IsCompleted)
-                .OrderByDescending(o => o.CreatedOn)
-                .FirstOrDefaultAsync();
+                .FirstOrDefaultAsync(o => o.UserId == userId &&
+                                          !o.IsCompleted &&
+                                          !o.IsCanceled &&
+                                          string.IsNullOrEmpty(o.FullName));
 
             if (order == null)
-            {
-                return RedirectToAction("Index");
-            }
+                return RedirectToAction("Index", "Cart", new { area = "" });
 
             var item = order.Items.FirstOrDefault(i => i.ProductId == productId);
             if (item != null)
             {
-                order.Items.Remove(item);
-                _context.OrderProduct.Remove(item);
+               
+                if (quantity <= 0 || quantity >= item.Quantity)
+                {
+                    order.Items.Remove(item);
+                }
+                else
+                {
+                    
+                    item.Quantity -= quantity;
+                }
+
                 await _context.SaveChangesAsync();
             }
 
             return RedirectToAction("Index", "Cart", new { area = "" });
-
         }
 
-        // това действие го вика CheckoutController след успешна поръчка
-        public IActionResult Completed(int orderId)
+       
+        [HttpGet]
+        public async Task<IActionResult> Completed(int orderId)
         {
-            ViewBag.OrderId = orderId;
-            return View();
+            var userId = GetUserId();
+            if (userId == null)
+                return RedirectToAction("Login", "Account");
+
+            var order = await _context.Orders
+                .Include(o => o.Items)
+                    .ThenInclude(i => i.Product)
+                .FirstOrDefaultAsync(o => o.Id == orderId && o.UserId == userId);
+
+            if (order == null)
+                return RedirectToAction("Index", "Cart", new { area = "" });
+
+            return View(order);
         }
     }
 }

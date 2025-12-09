@@ -1,0 +1,82 @@
+﻿@model IEnumerable<WebProject.Models.Order>
+
+@{
+    ViewData["Title"] = "История на поръчките";
+}
+
+<h2 class="mb-4">История на поръчките</h2>
+
+@if (!Model.Any())
+{
+    <p>Все още нямате направени поръчки.</p>
+}
+else
+{
+    foreach (var order in Model)
+    {
+        <div class="card mb-3">
+            <div class="card-header d-flex justify-content-between">
+                <div>
+                    <strong>Поръчка #@order.Id</strong> |
+                    <span>@order.CreatedOn</span>
+                </div>
+                <div>
+                    Статус:
+                    @if (order.IsCanceled)
+                    {
+                        <span class="badge bg-danger">Отказана</span>
+                    }
+                    else if (order.IsCompleted)
+                    {
+                        <span class="badge bg-success">Завършена</span>
+                    }
+                    else
+                    {
+                        <span class="badge bg-warning text-dark">В процес</span>
+                    }
+
+                </div>
+            </div>
+            <div class="card-body">
+                <p>
+                    <strong>Име:</strong> @order.FullName <br />
+                    <strong>Телефон:</strong> @order.PhoneNumber <br />
+                    <strong>Град:</strong> @order.City <br />
+                    <strong>Адрес:</strong> @order.Address <br />
+                    <strong>Бележки:</strong> @order.Notes
+                </p>
+
+                @if (order.Items != null && order.Items.Any())
+                {
+                    <h5>Продукти</h5>
+                    <table class="table table-sm table-dark">
+                        <thead>
+                            <tr>
+                                <th>Продукт</th>
+                                <th>Количество</th>
+                                <th>Ед. цена</th>
+                                <th>Общо</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in order.Items)
+                            {
+                                <tr>
+                                    <td>@item.Product?.Name</td>
+                                    <td>@item.Quantity</td>
+                                    <td>@item.Product?.Price.ToString("0.00") лв.</td>
+                                    <td>@(item.Quantity* item.Product.Price) лв.</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+
+                    <p class="text-end mb-0">
+                        <strong>Обща сума: </strong>
+                        @order.Items.Sum(i => i.Quantity * i.Product.Price) лв.
+                    </p>
+                }
+            </div>
+        </div>
+    }
+}

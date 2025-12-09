@@ -40,14 +40,24 @@ else
                         <form asp-area=""
                               asp-controller="Cart"
                               asp-action="Remove"
-                              method="post">
+                              method="post"
+                              class="d-flex align-items-center gap-1">
                             @Html.AntiForgeryToken()
+
                             <input type="hidden" name="productId" value="@item.ProductId" />
+
+                           
+                            <select name="quantity" class="form-select form-select-sm w-auto">
+                                @for (int q = 1; q <= item.Quantity; q++)
+                                {
+                                    <option value="@q">@q</option>
+                                }
+                            </select>
+
                             <button type="submit" class="btn btn-sm btn-danger">
                                 Премахни
                             </button>
                         </form>
-
                     </td>
                 </tr>
             }

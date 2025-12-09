@@ -1,0 +1,61 @@
+﻿@model IEnumerable<WebProject.Models.Order>
+
+@{
+    ViewData["Title"] = "All Orders";
+}
+
+<div class="admin-page">
+    <h2 class="mb-4">All Orders</h2>
+
+    <a asp-area="Admin"
+       asp-controller="Dashboard"
+       asp-action="Index"
+       class="btn btn-outline-secondary mb-3">
+        ← Обратно към Admin Dashboard
+    </a>
+
+    <div class="table-responsive">
+        <table class="table table-hover align-middle admin-table">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Created On</th>
+                    <th>User Email</th>
+                    <th>Full Name</th>
+                    <th>Phone</th>
+                    <th>City</th>
+                    <th>Address</th>
+                    <th>Status</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var order in Model.OrderByDescending(o => o.CreatedOn))
+                {
+                    <tr>
+                        <td>@order.Id</td>
+                        <td>@order.CreatedOn</td>
+                        <td>@order.User?.Email</td>
+                        <td>@order.FullName</td>
+                        <td>@order.PhoneNumber</td>
+                        <td>@order.City</td>
+                        <td>@order.Address</td>
+                        <td>
+                            @if (order.IsCanceled)
+                            {
+                                <span class="badge badge-status badge-cancelled">Отказана</span>
+                            }
+                            else if (order.IsCompleted)
+                            {
+                                <span class="badge badge-status badge-completed">Завършена</span>
+                            }
+                            else
+                            {
+                                <span class="badge badge-status badge-pending">В процес</span>
+                            }
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
