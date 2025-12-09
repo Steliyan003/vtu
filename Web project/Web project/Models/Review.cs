@@ -13,5 +13,6 @@ public class Review
     public string Content { get; set; } = null!;
     public int Rating { get; set; }
 
-    public DateTime CreatedOn { get; set; } = DateTime.Now;   
+    public DateTime CreatedOn { get; set; } = DateTime.Now;
+    
 }

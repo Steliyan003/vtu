@@ -264,7 +264,7 @@ namespace Web_project.Migrations
 
                     b.HasIndex("UserId");
 
-                    b.ToTable("Reviews");
+                    b.ToTable("Reviews", (string)null);
                 });
 
             modelBuilder.Entity("WebProject.Models.Category", b =>
@@ -281,7 +281,7 @@ namespace Web_project.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Category");
+                    b.ToTable("Category", (string)null);
                 });
 
             modelBuilder.Entity("WebProject.Models.Order", b =>
@@ -324,7 +324,7 @@ namespace Web_project.Migrations
 
                     b.HasIndex("UserId");
 
-                    b.ToTable("Orders");
+                    b.ToTable("Orders", (string)null);
                 });
 
             modelBuilder.Entity("WebProject.Models.OrderProduct", b =>
@@ -342,7 +342,7 @@ namespace Web_project.Migrations
 
                     b.HasIndex("ProductId");
 
-                    b.ToTable("OrderProduct");
+                    b.ToTable("OrderProduct", (string)null);
                 });
 
             modelBuilder.Entity("WebProject.Models.Product", b =>
@@ -375,7 +375,7 @@ namespace Web_project.Migrations
 
                     b.HasIndex("CategoryId");
 
-                    b.ToTable("Products");
+                    b.ToTable("Products", (string)null);
                 });
 
             modelBuilder.Entity("WebProject.Models.ApplicationUser", b =>
